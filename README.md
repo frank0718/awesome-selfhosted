@@ -112,44 +112,44 @@ _Web Analytics_
 
 _Business Intelligence_
 
-  * [Metabase](http://www.metabase.com/) - Simple Dashboarding and GUI Query tool, Nightly Emails and Slack Integration w/ PostgreSQL, MySQL, Redshift and other DBs. ([Source Code](https://github.com/metabase/metabase)) `AGPLv3` `Clojure`
-  * [Redash](http://redash.io) - connect to over 18 types of databases (SQL and "NoSQL"), query your data, visualize it and create dashboards. Everything has a URL that can be shared. Slack and HipChat integration. ([Demo](https://demo.redash.io), [Source Code](https://github.com/getredash/redash)) `BSD` `Python`
-  * [Superset](http://superset.apache.org/) - Modern, enterprise-ready business intelligence web application. ([Source Code](https://github.com/apache/incubator-superset)) `Apache` `Python`
+  * [Metabase](http://www.metabase.com/) - 简单的大盘和GUI查询工具，每晚发邮件和slack集成PostgreSQL, MySQL, Redshift and other DBs. ([Source Code](https://github.com/metabase/metabase)) `AGPLv3` `Clojure`
+  * [Redash](http://redash.io) - 连接超过18种数据库 (SQL and "NoSQL"), 查询数据，虚拟化然后生成大盘，所有的东西都有url可以分享，集成slack和hipchat ([Demo](https://demo.redash.io), [Source Code](https://github.com/getredash/redash)) `BSD` `Python`
+  * [Superset](http://superset.apache.org/) - 现代化，为企业准备的商业智能web应用. ([Source Code](https://github.com/apache/incubator-superset)) `Apache` `Python`
 
 
 ## Automation
 
 **[`^        back to top        ^`](#)**
 
-  * [Alltube](http://www.alltubedownload.net) - A web interface for [youtube-dl](https://github.com/rg3/youtube-dl), a program to download videos and audio from [more than 100 websites](https://rg3.github.io/youtube-dl/supportedsites.html). ([Demo](http://www.alltubedownload.net), [Source Code](https://github.com/Rudloff/alltube)) `GPL` `PHP`
-  * [AmIUnique](https://amiunique.org/) - Learn how identifiable you are on the Internet (browser fingerprinting tool). ([Source Code](https://github.com/DIVERSIFY-project/amiunique)) `MIT` `Java`
-  * [Beehive](https://github.com/muesli/beehive) - A flexible event and agent system, which allows you to create your own agents that perform automated tasks triggered by events and filters. `AGPLv3` `Go`
-  * [CouchPotato](https://couchpota.to/) - CouchPotato is an automatic Video Library Manager for Movies. Automatic torrent/nzb searching, downloading, and processing at the qualities you want. ([Source Code](https://github.com/CouchPotato/CouchPotatoServer/)) `GPLv3` `Python`
-  * [Episodes](https://github.com/guptachetan1997/Episodes) - `⚠` Self Hosted TV show Episode tracker and recommender built using django, bootstrap4. `MIT` `Python`
-  * [FHEM](https://fhem.de/fhem.html) - FHEM is used to automate common tasks in the household like switching lamps and heating. It can also be used to log events like temperature or power consumption. You can control it via web or smartphone frontends, telnet or TCP/IP directly. ([Source Code](https://svn.fhem.de/trac)) `GPLv3` `Perl`
-  * [Gekko](https://gekko.wizb.it/) - Gekko is a Bitcoin TA trading and backtesting bot which support multiple exchanges and cryptocurrencies. ([Source Code](https://github.com/askmike/gekko)) `MIT` `Nodejs`
-  * [Headphones](https://github.com/rembo10/headphones) - An automated music downloader for NZB and Torrent, written in Python. It supports SABnzbd, NZBget, Transmission, µTorrent, Deluge and Blackhole. `GPLv3` `Python`
-  * [Healthchecks](https://healthchecks.io/) - Django app which listens for pings and sends alerts when pings are late. ([Source Code](https://github.com/healthchecks/healthchecks)) `BSD` `Python`
-  * [Home Assistant](https://home-assistant.io/) - An open-source home automation platform. ([Demo](https://home-assistant.io/demo/), [Source Code](https://github.com/home-assistant/home-assistant)) `MIT` `Python`
-  * [homebank-converter](https://github.com/Binnette/homebank-converter) - A web app to convert an export bank file to compatible Homebank csv. ([Demo](http://binnette.github.io/homebank-converter/)) `AGPLv3` `HTML5`
-  * [Huginn](https://github.com/cantino/huginn) - Allows you to build agents that monitor and act on your behalf. `MIT` `Ruby`
-  * [Http2pic](https://http2pic.haschek.at/) - Website screenshots/renderer. It uses the wkhtmltox to render websites with various options. ([Source Code](https://github.com/chrisiaut/http2pic)) `Apache 2.0` `PHP/Javascript`
-  * [Kibitzr](https://kibitzr.github.io) - Lightweight personal web assistant with powerful integrations. ([Source Code](https://github.com/kibitzr/kibitzr/)) `MIT` `Python`
-  * [Medusa](https://github.com/pymedusa/SickRage) - Automatic Video Library Manager for TV Shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic. `GPLv3` `Python`
-  * [Node RED](http://nodered.org/) - A browser-based flow editor that helps you wiring hardware devices, APIs and online services to create IoT solutions. ([Source Code](https://github.com/node-red/node-red)) `Apache` `Nodejs`
-  * [openHAB](http://www.openhab.org) - Vendor and technology agnostic open source software for home automation. ([Source Code](https://github.com/openhab/openhab)) `EPLv1` `Java`
-  * [PolitePol](https://github.com/taroved/pol) - Online tool for creation of RSS feeds for any web page. ([Demo](http://politepol.com)) `MIT` `Python`
-  * [Poffer](http://poffer.gabinaureche.com) `⚠` - A tool that makes it easier to share the content you like thanks to Pocket+Buffer. ([Source Code](https://github.com/Zhouzi/Poffer)) `MIT` `Nodejs`
-  * [pyLoad](https://pyload.net/) - Lightweight, customizable and remotely manageable downloader for 1-click-hosting sites like rapidshare.com or uploaded.to. ([Source Code](https://github.com/pyload/pyload)) `GPLv3` `Python`
-  * [Radarr](https://radarr.video/) - Radarr is an independent fork of Sonarr reworked for automatically downloading movies via Usenet and BitTorrent, à la Couchpotato. ([Source Code](https://github.com/Radarr/Radarr)) `GPLv3` `C#`
-  * [RSS-Bridge](https://github.com/sebsauvage/rss-bridge) - rss-bridge is a PHP project capable of generating ATOM feeds for websites which don't have one. `Public domain` `PHP`
-  * [RSS Merger](https://github.com/taophp/rss-merger) - PHP script which will take multiple RSS / Atom feeds as input and merge them into a single RSS feed. `GPLv2` `PHP`
-  * [SickRage](http://sickrage.github.io/) - SickRage is an automatic Video Library Manager for TV Shows. Automatic torrent/nzb searching, downloading, and processing at the qualities you want. ([Source Code](https://github.com/SickRage/SickRage/)) `GPLv3` `Python`
-  * [Sonarr](https://sonarr.tv/) - An automatic TV Shows downloader and manager for Usenet and BitTorrent. It can grab, sort and rename new episodes and automatically upgrade the quality of files already downloaded when a better quality format becomes available. ([Source Code](https://github.com/Sonarr/Sonarr)) `GPLv3` `C#`
-  * [TriggerHappy](http://trigger-happy.eu/) - An opensource clone of IFTTT, a bridge between your internet services. ([Source Code](https://github.com/foxmask/django-th)) `BSD` `Python`
-  * [WebUI-aria2](https://github.com/ziahamza/webui-aria2) - Interface to interact with the aria2 downloader. Very simple to use, just download and open index.html in any web browser. ([Demo](http://ziahamza.github.io/webui-aria2/)) `MIT` `HTML5`
-  * [WTFDYUM](https://github.com/jchampemont/WTFDYUM) `⚠` - Why The Fuck Did You Unfollow Me - Find out who stops following you on Twitter. ([Demo](https://www.wtfdyu.me/), [Source Code](https://github.com/jchampemont/WTFDYUM)) `Apache` `Java`
-  * [Zenbot 3](https://github.com/carlos8f/zenbot) - Zenbot is a lightweight, extendable, artificially intelligent trading bot for Bitcoin, Ether, Litecoin, and more. `MIT` `Node.js`
+  * [Alltube](http://www.alltubedownload.net) - 一个提供[youtube-dl](https://github.com/rg3/youtube-dl)下载的web页面 [more than 100 websites](https://rg3.github.io/youtube-dl/supportedsites.html). ([Demo](http://www.alltubedownload.net), [Source Code](https://github.com/Rudloff/alltube)) `GPL` `PHP`
+  * [AmIUnique](https://amiunique.org/) - 通过浏览器指纹工具，学习在互联网上如何识别你. ([Source Code](https://github.com/DIVERSIFY-project/amiunique)) `MIT` `Java`
+  * [Beehive](https://github.com/muesli/beehive) - 一个灵活的事件代理系统，允许你创建自己的代理，通过事件和触发器来自动化执行任务。 `AGPLv3` `Go`
+  * [CouchPotato](https://couchpota.to/) - 沙发土豆是一个自动化的电影视频库管理器，自动化搜索种子，下载和处理你想要的视频质量. ([Source Code](https://github.com/CouchPotato/CouchPotatoServer/)) `GPLv3` `Python`
+  * [Episodes](https://github.com/guptachetan1997/Episodes) - `⚠` 用django自搭建电视剧集追踪和推荐器Self Hosted TV show Episode tracker and recommender built using django, bootstrap4. `MIT` `Python`
+  * [FHEM](https://fhem.de/fhem.html) - 用于自动化家居常用任务，比如开关灯，加热，另外也可以用户记录事件，比如温度和耗电，你可以通过web和智能前端设备，telnet和tcp/ip来控制。 ([Source Code](https://svn.fhem.de/trac)) `GPLv3` `Perl`
+  * [Gekko](https://gekko.wizb.it/) - 是一个比特币交易和回溯检验机器人用户支持大量的交易和加密货币([Source Code](https://github.com/askmike/gekko)) `MIT` `Nodejs`
+  * [Headphones](https://github.com/rembo10/headphones) - python写的自动化音乐下载器，支持 SABnzbd, NZBget, Transmission, µTorrent, Deluge and Blackhole. `GPLv3` `Python`
+  * [Healthchecks](https://healthchecks.io/) - cron的任务报警器([Source Code](https://github.com/healthchecks/healthchecks)) `BSD` `Python`
+  * [Home Assistant](https://home-assistant.io/) - 开源的家居自动化平台. ([Demo](https://home-assistant.io/demo/), [Source Code](https://github.com/home-assistant/home-assistant)) `MIT` `Python`
+  * [homebank-converter](https://github.com/Binnette/homebank-converter) - 一个web应用用于转换bankfile成兼容的homeback csv文件([Demo](http://binnette.github.io/homebank-converter/)) `AGPLv3` `HTML5`
+  * [Huginn](https://github.com/cantino/huginn) - 以你的名义构建代理  `MIT` `Ruby`
+  * [Http2pic](https://http2pic.haschek.at/) - 网站截图生成器，使用wkhtmlto，有不同的选项渲染网站 ([Source Code](https://github.com/chrisiaut/http2pic)) `Apache 2.0` `PHP/Javascript`
+  * [Kibitzr](https://kibitzr.github.io) - 集成了很多工具的轻量级个人网站助理  ([Source Code](https://github.com/kibitzr/kibitzr/)) `MIT` `Python`
+  * [Medusa](https://github.com/pymedusa/SickRage) - 自动化的电视节目视频库管理器，帮你关注你最爱的新剧集 `GPLv3` `Python`
+  * [Node RED](http://nodered.org/) - 基于浏览器的流编辑器，帮你打通硬件设别，有api和线上服务创建IOT方案， ([Source Code](https://github.com/node-red/node-red)) `Apache` `Nodejs`
+  * [openHAB](http://www.openhab.org) - 开源的家居自动化 ([Source Code](https://github.com/openhab/openhab)) `EPLv1` `Java`
+  * [PolitePol](https://github.com/taroved/pol) - 任意网页的rss流创建器 ([Demo](http://politepol.com)) `MIT` `Python`
+  * [Poffer](http://poffer.gabinaureche.com) `⚠` - 一个轻松分享你喜欢的内容的工具 ([Source Code](https://github.com/Zhouzi/Poffer)) `MIT` `Nodejs`
+  * [pyLoad](https://pyload.net/) - 轻量级的，自定义的远程管理下载器，一键部署。 ([Source Code](https://github.com/pyload/pyload)) `GPLv3` `Python`
+  * [Radarr](https://radarr.video/) - Radarr 是独立form自Sonarr的项目，重新加工用于下载电影 ([Source Code](https://github.com/Radarr/Radarr)) `GPLv3` `C#`
+  * [RSS-Bridge](https://github.com/sebsauvage/rss-bridge) - rss-bridge用于产生atom feeds的工具。 `Public domain` `PHP`
+  * [RSS Merger](https://github.com/taophp/rss-merger) - 合并多个rss feeds流到一个 `GPLv2` `PHP`
+  * [SickRage](http://sickrage.github.io/) - SickRage是自动化的电视节目下载器。 ([Source Code](https://github.com/SickRage/SickRage/)) `GPLv3` `Python`
+  * [Sonarr](https://sonarr.tv/) - 电视节目视频下载 ([Source Code](https://github.com/Sonarr/Sonarr)) `GPLv3` `C#`
+  * [TriggerHappy](http://trigger-happy.eu/) - 类iFFFT的工具 ([Source Code](https://github.com/foxmask/django-th)) `BSD` `Python`
+  * [WebUI-aria2](https://github.com/ziahamza/webui-aria2) - aria2的web端下载。 ([Demo](http://ziahamza.github.io/webui-aria2/)) `MIT` `HTML5`
+  * [WTFDYUM](https://github.com/jchampemont/WTFDYUM) `⚠` - 在twiter上找到不再follow你的人。好邪恶 ([Demo](https://www.wtfdyu.me/), [Source Code](https://github.com/jchampemont/WTFDYUM)) `Apache` `Java`
+  * [Zenbot 3](https://github.com/carlos8f/zenbot) - 轻量级，可扩展的，用于 Bitcoin, Ether, Litecoin等等的AI交易机器人 `MIT` `Node.js`
 
 
 ## Blogging Platforms
