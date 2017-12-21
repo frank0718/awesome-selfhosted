@@ -247,16 +247,16 @@ Some [Groupware](#groupware) solutions also feature calendar/address book editin
   * [Ring](https://ring.cx/) - 通用的通讯软件，尊重自由和用户隐私 ([Source Code](https://github.com/savoirfairelinux/ring-project)) `GPLv3` `C++`
   * [Rocket.Chat](https://rocket.chat/) - 类似Gitter.im or Slack.团队聊天软件 ([Source Code](https://github.com/RocketChat/Rocket.Chat)) `MIT` `Nodejs`
   * [Spectrum 2](http://spectrum.im/) - Spectrum开源即时传输，即使使用不用的IM网络也能一起聊天  ([Source Code](https://github.com/hanzz/spectrum2)) `GPLv3` `C++`
-  * [Spreed](https://www.spreed.me/) - WebRTC audio/video calls, conferencing server, and web client. ([Source Code](https://github.com/strukturag/spreed-webrtc)) `AGPLv3` `Go`
-  * [Synapse](http://matrix.org/docs/projects/server/synapse.html) - A server for [Matrix](https://matrix.org/), an open standard for decentralized persistent communication. ([Source Code](https://github.com/matrix-org/synapse)) `Apache` `Python`
+  * [Spreed](https://www.spreed.me/) - WebRTC音视频调用，会议服务，和web客户端  ([Source Code](https://github.com/strukturag/spreed-webrtc)) `AGPLv3` `Go`
+  * [Synapse](http://matrix.org/docs/projects/server/synapse.html) - A server for [Matrix](https://matrix.org/), 开放标准对于去中心化持久通信([Source Code](https://github.com/matrix-org/synapse)) `Apache` `Python`
     * [Matrix Console Web](http://matrix.org/docs/projects/client/matrix-console.html) - A web client meant to be a showcase of Matrix capabilities, and reference implementation of the Matrix standard. ([Source Code](https://github.com/matrix-org/matrix-angular-sdk)) `Apache` `Javascript`
     * [RIOT](http://riot.im) - A glossy Matrix web client with an emphasis on performance and usability. ([Source Code](https://github.com/vector-im/riot-web)) `Apache` `Javascript`
-  * [Syndie](https://www.syndie.de) - Syndie is a libre system for operating distributed forums. `CC0` `Java`
-  * [TextBelt](https://github.com/typpo/textbelt) `⚠` - An outgoing SMS API that uses carrier-specific gateways to deliver your text messages for free, and without ads. `MIT` `Javascript`
-  * [Tox](https://tox.chat/) - A distributed, secure messenger with audio and video chat capabilities. ([Source Code](https://github.com/irungentoo/toxcore)) `GPLv3` `C`
-  * [Tuber](https://blog.trailofbits.com/2015/12/15/self-hosted-video-chat-with-tuber/) - Peer-to-peer video chat that works. ([Source Code](https://github.com/trailofbits/tubertc)) `MIT` `Javascript`
+  * [Syndie](https://www.syndie.de) - Syndie是一个运营分布式论坛的开源软件. `CC0` `Java`
+  * [TextBelt](https://github.com/typpo/textbelt) `⚠` - 一个对人友好的短信API ，能够免费发短信. `MIT` `Javascript`
+  * [Tox](https://tox.chat/) - 一个分布式的安全消息中心，能够处理音视频聊天 ([Source Code](https://github.com/irungentoo/toxcore)) `GPLv3` `C`
+  * [Tuber](https://blog.trailofbits.com/2015/12/15/self-hosted-video-chat-with-tuber/) - p2p视频聊天 ([Source Code](https://github.com/trailofbits/tubertc)) `MIT` `Javascript`
   * [ZeroNet](https://zeronet.io/) `⚠` - Open, free, and uncensorable websites, using Bitcoin cryptography and BitTorrent network. ([Source Code](https://github.com/HelloZeroNet/ZeroNet)) `GNU` `Python`
-  * [Zulip](https://zulip.org) - Zulip is a powerful, open source group chat application. ([Source Code](https://github.com/zulip/zulip)) `Apache/Other` `Python`
+  * [Zulip](https://zulip.org) - Zulip 有力的开源小组聊天应用 ([Source Code](https://github.com/zulip/zulip)) `Apache/Other` `Python`
 
 ### Email
 
@@ -268,63 +268,63 @@ _simple deployment of a mail server, e.g. for inexperienced or impatient admins.
 
   * [Citadel](http://www.citadel.org/) - Feature packed, easy, versatile, and powerful mail server, thanks to exclusive "rooms" based architecture. ([Source Code](http://code.citadel.org/?p=citadel.git;a=summary)) `GPLv3` `C`
   * [docker-mailserver](https://github.com/tomav/docker-mailserver) - A fullstack but simple mail server (smtp, imap, antispam, antivirus, etc.). Only configuration files, no SQL database. Keep it simple and versioned. Easy to deploy and upgrade. `MIT` `Docker`
-  * [Inboxen](https://inboxen.org) - Inboxen is a service that provides you with an infinite number of unique inboxes. ([Source Code](https://github.com/Inboxen/Inboxen)) `GPLv3` `Python`
-  * [iRedMail](http://www.iredmail.org/) - Full-featured mail server solution based on Postfix and Dovecot. ([Source Code](https://bitbucket.org/zhb/iredmail/commits/)) `GPLv3` `Shell`
-  * [Mailcow](https://mailcow.email/) - Mail server suite based on Dovecot, Postfix and other open source software, that provides a modern Web UI for administration. ([Source Code](https://github.com/andryyy/mailcow)) `GPLv2` `PHP`
-  * [Mailu](https://mailu.io/) - Mailu is a simple yet full-featured mail server as a set of Docker images. ([Demo](https://github.com/Mailu/Mailu/wiki/Demo-server), [Source Code](https://github.com/Mailu/Mailu)) `MIT` `Docker/Python`
+  * [Inboxen](https://inboxen.org) - 提供无限的独立的inboxes ([Source Code](https://github.com/Inboxen/Inboxen)) `GPLv3` `Python`
+  * [iRedMail](http://www.iredmail.org/) - 基于Postfix and Dovecot的全功能邮件服务 ([Source Code](https://bitbucket.org/zhb/iredmail/commits/)) `GPLv3` `Shell`
+  * [Mailcow](https://mailcow.email/) - 基于Dovecot, Postfix和其他开源软件的邮件服务，提供了一个管理平台的webui ([Source Code](https://github.com/andryyy/mailcow)) `GPLv2` `PHP`
+  * [Mailu](https://mailu.io/) - Mailu是一个简单的全功能邮件服务，有一系列的docker镜像 ([Demo](https://github.com/Mailu/Mailu/wiki/Demo-server), [Source Code](https://github.com/Mailu/Mailu)) `MIT` `Docker/Python`
   * [Mail-in-a-Box](https://mailinabox.email/) - Turns any Ubuntu server into a fully functional mail server with one command. ([Source Code](https://github.com/mail-in-a-box/mailinabox)) `CC0` `Shell`
-  * [Modoboa](http://modoboa.org/en/) - Modoboa is a mail hosting and management platform including a modern and simplified Web User Interface. ([Source Code](https://github.com/tonioo/modoboa)) `MIT` `Python`
-  * [Postal](https://github.com/atech/postal) - Postal is a complete and full featured mail server for use by websites and web servers. `MIT` `Ruby`
-  * [Qmailtoaster](http://www.qmailtoaster.com/) - Stable, full-featured, easy-to-install mail server based on qmail. ([Source Code](https://github.com/QMailToaster/)) `Multiple` `Linux`
+  * [Modoboa](http://modoboa.org/en/) - Modoboa是一个现代，简单webui接口的管理平台  ([Source Code](https://github.com/tonioo/modoboa)) `MIT` `Python`
+  * [Postal](https://github.com/atech/postal) - Postal是一个完全，全功能的邮件服务 `MIT` `Ruby`
+  * [Qmailtoaster](http://www.qmailtoaster.com/) - 稳定，全功能，基于qmail的容易安装的邮件服务([Source Code](https://github.com/QMailToaster/)) `Multiple` `Linux`
 
 #### Mail Transfer Agents
 
 _MTAs / SMTP servers_
 
-* [Courier MTA](http://www.courier-mta.org/) - Fast, scalable, enterprise mail/groupware server providing ESMTP, IMAP, POP3, webmail, mailing list, basic web-based calendaring and scheduling services. ([Source Code](http://www.courier-mta.org/repo.html)) `GPLv3` `C`
-* [Exim](https://www.exim.org/) - Message transfer agent (MTA) developed at the University of Cambridge. ([Source Code](http://git.exim.org/exim.git)) `GPLv3` `C`
-* [Haraka](http://haraka.github.io/) - A high-performance, pluginable SMTP server written in Javascript. ([Source Code](https://github.com/haraka/Haraka)) `MIT` `Javascript`
-* [MailCatcher](http://mailcatcher.me/) - Ruby gem that deploys a simply SMTP MTA gateway that accepts all mail and displays in web interface. Useful for debugging or development. ([Source Code](https://github.com/sj26/mailcatcher)) `MIT` `Ruby`
-* [Maildrop](https://github.com/m242/maildrop) - Disposable email SMTP server, also useful for development. `MIT` `Scala`
+* [Courier MTA](http://www.courier-mta.org/) - 快速可扩展，企业级邮件服务，提供ESMTP, IMAP, POP3, webmail, mailing list,基本的基于wbe的日历和调度服务([Source Code](http://www.courier-mta.org/repo.html)) `GPLv3` `C`
+* [Exim](https://www.exim.org/) - 剑桥大学开发的MTA ([Source Code](http://git.exim.org/exim.git)) `GPLv3` `C`
+* [Haraka](http://haraka.github.io/) - 高性能可扩展的SMTP服务([Source Code](https://github.com/haraka/Haraka)) `MIT` `Javascript`
+* [MailCatcher](http://mailcatcher.me/) - 部署简单的SMTP MTA网关，接收所有的邮件和展示web接口， 对于开发和调试很有帮助. ([Source Code](https://github.com/sj26/mailcatcher)) `MIT` `Ruby`
+* [Maildrop](https://github.com/m242/maildrop) - 一次性邮件SMTP服务 ，也用于开发 `MIT` `Scala`
 * [MailHog](https://github.com/mailhog/MailHog) - Small Golang executable which runs an SMTP MTA gateway that accepts all mail and displays in web interface. Useful for debugging or development. `MIT` `Go`
 * [OpenSMTPD](https://opensmtpd.org/) - Secure SMTP server implementation from the OpenBSD project. ([Source Code](http://cvsweb.openbsd.org/cgi-bin/cvsweb/src/usr.sbin/smtpd/)) `ISC` `C`
-* [Postfix](http://www.postfix.org/) - Fast, easy to administer, and secure Sendmail replacement. `IPL` `C`
-* [Qmail](http://www.qmail.org/top.html) - Secure Sendmail replacement. ([Source Code](https://sources.debian.net/src/netqmail/1.06-5/)) `CC0` `C`
-* [Sendmail](http://www.sendmail.com/sm/open_source/) - Message transfer agent (MTA). `SENDMAIL` `C`
-* [Slimta](http://slimta.org) - Mail Transfer Library built on Python. ([Source Code](https://github.com/slimta/python-slimta)) `MIT` `Python`
+* [Postfix](http://www.postfix.org/) - 快速，容易管理的，安全的sendmail替代 `IPL` `C`
+* [Qmail](http://www.qmail.org/top.html) - 安全的Sendmail替代. ([Source Code](https://sources.debian.net/src/netqmail/1.06-5/)) `CC0` `C`
+* [Sendmail](http://www.sendmail.com/sm/open_source/) - 无需多言 (MTA). `SENDMAIL` `C`
+* [Slimta](http://slimta.org) - 基于python的邮件传输库([Source Code](https://github.com/slimta/python-slimta)) `MIT` `Python`
 
 #### Mail Delivery Agents
 
 _MDAs - IMAP/POP3 software_
 
-* [Cyrus IMAP/POP3](http://cyrusimap.org/) - Intended to be run on sealed servers, where normal users are not permitted to log in. ([Source Code](https://github.com/cyrusimap/cyrus-imapd )) `BSD` `C`
-* [Dovecot](http://www.dovecot.org/) - IMAP and POP3 server written primarily with security in mind. ([Source Code](https://github.com/dovecot/core)) `MIT/LGPLv2` `C`
-* [Piler](http://www.mailpiler.org/wiki/start) - feature rich open source email archiving solution. ([Source Code](https://bitbucket.org/jsuto/piler)) `GPLv3` `C`
+* [Cyrus IMAP/POP3](http://cyrusimap.org/) - 用于运行在封闭的server中，正常用户不允许登录。 ([Source Code](https://github.com/cyrusimap/cyrus-imapd )) `BSD` `C`
+* [Dovecot](http://www.dovecot.org/) - 主要考虑到安全写的一个IMAP and POP3 服务 ([Source Code](https://github.com/dovecot/core)) `MIT/LGPLv2` `C`
+* [Piler](http://www.mailpiler.org/wiki/start) - 多功能的邮件归档方案([Source Code](https://bitbucket.org/jsuto/piler)) `GPLv3` `C`
 
 #### Mailing lists and Newsletters
 
 _Mailing lists servers and mass mailing software - one message to many recipients._
 
-  * [Dada Mail](http://dadamailproject.com/) - A web-based list management system that can be used for announcement lists and/or discussion lists. ([Source Code](https://github.com/justingit/dada-mail)) `GPLv2` `Perl`
-  * [Mail For Good](https://github.com/freeCodeCamp/mail-for-good) `⚠` - An open source email campaign management tool for nonprofits. `BSD` `Javascript`
-  * [Mailman](https://www.gnu.org/software/mailman/) - The Gnu mailing list server. `GPL` `Python`
-  * [Mailtrain](https://mailtrain.org/) - self hosted newsletter application built on Node.js (v5+) and MySQL (v5.5+ or MariaDB). ([Source Code](https://github.com/andris9/mailtrain)) `GPLv3` `Nodejs`
-  * [MailyHerald](http://mailyherald.org/) - Self-hosted Mailchimp alternative that you can easily integrate with your site. Helps you send and manage your application mailings. It support email marketing and conducting the daily stream of notifications you send to your users. ([Source Code](https://github.com/Sology/maily_herald)) `LGPLv3` `Ruby`
-  * [Mautic](https://www.mautic.org/) - Mautic is marketing automation software (email, social & more). ([Source Code](https://github.com/mautic/mautic)) `GPLv3` `PHP`
-  * [phpList](https://phplist.org) - Newsletter and email marketing with advanced management of subscribers, bounces, and plugins. ([Source Code](https://github.com/phpList/)) `AGPLv3` `PHP`
-  * [postal](https://github.com/atech/postal) - A fully featured open source mail delivery platform for incoming & outgoing e-mail. `MIT` `Ruby`
-  * [Schleuder](https://schleuder.nadir.org/) - A GPG-enabled mailing list manager with resending-capabilities. ([Source Code](https://0xacab.org/schleuder/schleuder/tree/master)) `GPLv3` `Ruby`
-  * [Sympa](https://www.sympa.org/) - A mailing list manager. `GPLv2` `Perl`
+  * [Dada Mail](http://dadamailproject.com/) - 基于web的用于通知列表和讨论列表的管理系统 ([Source Code](https://github.com/justingit/dada-mail)) `GPLv2` `Perl`
+  * [Mail For Good](https://github.com/freeCodeCamp/mail-for-good) `⚠` - 开源的邮件管理系统，不为盈利 `BSD` `Javascript`
+  * [Mailman](https://www.gnu.org/software/mailman/) -  Gnu邮件列表server. `GPL` `Python`
+  * [Mailtrain](https://mailtrain.org/) - 新闻应用([Source Code](https://github.com/andris9/mailtrain)) `GPLv3` `Nodejs`
+  * [MailyHerald](http://mailyherald.org/) - 自部署的可替代Mailchimp的方案，能够方便集成到你的网站 ，帮你发送和管理应用邮件，支持邮件市场，管理每日通知流到用户 ([Source Code](https://github.com/Sology/maily_herald)) `LGPLv3` `Ruby`
+  * [Mautic](https://www.mautic.org/) - 营销自动化软件 ([Source Code](https://github.com/mautic/mautic)) `GPLv3` `PHP`
+  * [phpList](https://phplist.org) - 新闻和邮件市场，具有高级管理功能，包括订阅，弹性和插件 ([Source Code](https://github.com/phpList/)) `AGPLv3` `PHP`
+  * [postal](https://github.com/atech/postal) - 全功能的开源邮件分发平台，包括收发邮件 `MIT` `Ruby`
+  * [Schleuder](https://schleuder.nadir.org/) - 开启GPG功能的邮件列表管理器，具有重发功能 ([Source Code](https://0xacab.org/schleuder/schleuder/tree/master)) `GPLv3` `Ruby`
+  * [Sympa](https://www.sympa.org/) - 邮件列表管理器 `GPLv2` `Perl`
 
 #### Webmail clients
 
-  * [Cypht](http://cypht.org/index.html) - A feed reader for your email accounts. ([Source Code](https://github.com/jasonmunro/hm3)) `GPLv2` `PHP`
-  * [IMP](https://www.horde.org/apps/imp/) - HORDE application that provides webmail access to IMAP and POP3 accounts. ([Demo](http://demo.horde.org/), [Source Code](https://www.horde.org/download/imp)) `GPLv2` `PHP`
-  * [Mailpile](https://www.mailpile.is/) - Webmail client with search, filtering, encryption features and more. ([Source Code](https://github.com/mailpile/Mailpile)) `AGPLv3` `Python`
-  * [RainLoop](http://www.rainloop.net/) - Simple, modern & fast webmail with IMAP/SMTP Support and multi accounting. ([Demo](http://demo.rainloop.net/), [Source Code](https://github.com/RainLoop/rainloop-webmail)). `AGPLv3` `PHP`
-  * [Roundcube](https://roundcube.net) - Browser-based IMAP client with an application-like user interface. ([Source Code](https://github.com/roundcube/roundcubemail/)) `GPLv3` `PHP`
-  * [SquirrelMail](http://squirrelmail.org) - Another browser-based IMAP client. ([Source Code](https://sourceforge.net/p/squirrelmail/code/HEAD/tree/)) `GPLv2` `PHP`
-  * [WebMail Lite](http://www.afterlogic.org/webmail-lite) - Web-based IMAP Mail client. ([Source Code](https://github.com/afterlogic/webmail-lite)) `GPLv3` `PHP`
+  * [Cypht](http://cypht.org/index.html) - 邮件流管理器([Source Code](https://github.com/jasonmunro/hm3)) `GPLv2` `PHP`
+  * [IMP](https://www.horde.org/apps/imp/) - webmail提供IMAP and POP3 accounts接入. ([Demo](http://demo.horde.org/), [Source Code](https://www.horde.org/download/imp)) `GPLv2` `PHP`
+  * [Mailpile](https://www.mailpile.is/) - Webmail客户端具有搜索，过滤，加密等特性 ([Source Code](https://github.com/mailpile/Mailpile)) `AGPLv3` `Python`
+  * [RainLoop](http://www.rainloop.net/) - 简单，现代，快速的web邮件，具有IMAP/SMTP 支持和多用户管理([Demo](http://demo.rainloop.net/), [Source Code](https://github.com/RainLoop/rainloop-webmail)). `AGPLv3` `PHP`
+  * [Roundcube](https://roundcube.net) - 基于浏览器的邮件客户端([Source Code](https://github.com/roundcube/roundcubemail/)) `GPLv3` `PHP`
+  * [SquirrelMail](http://squirrelmail.org) -另一个web邮件客户端. ([Source Code](https://sourceforge.net/p/squirrelmail/code/HEAD/tree/)) `GPLv2` `PHP`
+  * [WebMail Lite](http://www.afterlogic.org/webmail-lite) . ([Source Code](https://github.com/afterlogic/webmail-lite)) `GPLv3` `PHP`
 
 ### IRC
 
@@ -332,13 +332,13 @@ _Mailing lists servers and mass mailing software - one message to many recipient
 
 _[IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) communication software_
 
-  * [Convos](http://convos.by/) - Always online web IRC client. ([Demo](http://demo.convos.by), [Source Code](http://github.com/nordaaker/convos)) `ARTv2` `Perl`
-  * [IRCAnywhere](http://ircanywhere.com/) - Open-source self-hosted alternative to IRCCloud. ([Source Code](https://github.com/ircanywhere/ircanywhere)) `GPLv2` `Nodejs`
-  * [Quassel IRC](http://quassel-irc.org/) - distributed IRC client, meaning that one (or multiple) client(s) can attach to and detach from a central core. ([Source Code](https://github.com/quassel/quassel)) `GPLv2` `C++`
-  * [Robust IRC](https://robustirc.net/) - RobustIRC is IRC without netsplits. Distributed IRC server, based on RobustSession protocol. ([Source Code](https://github.com/robustirc/robustirc)) `BSD` `Go`
-  * [The Lounge](https://thelounge.github.io/) - The self-hosted web IRC client. ([Demo](https://demo.thelounge.chat/), [Source Code](https://github.com/thelounge/lounge)) `MIT` `Nodejs`
-  * [Weechat](https://weechat.org/) - A fast, light and extensible chat client. `GPLv3` `C`
-  * [ZNC](http://wiki.znc.in/ZNC) - An advanced IRC bouncer. ([Source Code](https://github.com/znc/znc)) `Apache` `C++`
+  * [Convos](http://convos.by/) - 保持在线的IRC客户端. ([Demo](http://demo.convos.by), [Source Code](http://github.com/nordaaker/convos)) `ARTv2` `Perl`
+  * [IRCAnywhere](http://ircanywhere.com/) - 开源替代IRCCloud的替代 ([Source Code](https://github.com/ircanywhere/ircanywhere)) `GPLv2` `Nodejs`
+  * [Quassel IRC](http://quassel-irc.org/) - 分布式的IRC客户端 ([Source Code](https://github.com/quassel/quassel)) `GPLv2` `C++`
+  * [Robust IRC](https://robustirc.net/) - RobustIRC没有网络分割，分布式，基于RobustSession protocol. ([Source Code](https://github.com/robustirc/robustirc)) `BSD` `Go`
+  * [The Lounge](https://thelounge.github.io/) -  自部署的IRC client. ([Demo](https://demo.thelounge.chat/), [Source Code](https://github.com/thelounge/lounge)) `MIT` `Nodejs`
+  * [Weechat](https://weechat.org/) - 轻量可扩展的 chat client. `GPLv3` `C`
+  * [ZNC](http://wiki.znc.in/ZNC) - 高级IRC保镖. ([Source Code](https://github.com/znc/znc)) `Apache` `C++`
 
 ### SIP
 
@@ -346,10 +346,10 @@ _[IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) communication software
 
 _[SIP](https://en.wikipedia.org/wiki/Session_Initiation_Protocol) telephony software_
 
-  * [Asterisk](http://www.asterisk.org/) - An easy to use but advanced IP PBX system, VoIP gateway and conference server. `GPLv2` `C`
-  * [FreeSWITCH](https://freeswitch.org/) - Scalable open source cross-platform telephony platform. ([Source Code](https://freeswitch.org/stash/projects/FS/repos/freeswitch/browse)) `MPLv2` `C`
-  * [Kamailio](http://www.kamailio.org/w/) - Modular SIP server (registrar/proxy/router/etc). ([Source Code](https://github.com/kamailio/kamailio)) `GPLv2` `C`
-  * [Ostel](https://dev.guardianproject.info/projects/ostel/wiki/Server_Documentation) - Secure SIP telephony setup with ZRTP encryption. `GPLv3` `Ruby`
+  * [Asterisk](http://www.asterisk.org/) - 易用高级 IP PBX system, VoIP gateway and 会议服务. `GPLv2` `C`
+  * [FreeSWITCH](https://freeswitch.org/) - 可扩展开源跨平台通信平台 ([Source Code](https://freeswitch.org/stash/projects/FS/repos/freeswitch/browse)) `MPLv2` `C`
+  * [Kamailio](http://www.kamailio.org/w/) - 模块化的SIP server (registrar/proxy/router/etc). ([Source Code](https://github.com/kamailio/kamailio)) `GPLv2` `C`
+  * [Ostel](https://dev.guardianproject.info/projects/ostel/wiki/Server_Documentation) - 安全的SIP基于ZRTP加密 `GPLv3` `Ruby`
 
 ### IPBX
 
@@ -357,9 +357,9 @@ _[SIP](https://en.wikipedia.org/wiki/Session_Initiation_Protocol) telephony soft
 
 _[IPBX](https://en.wikipedia.org/wiki/IP_PBX) telephony software_
 
-  * [Freepbx](http://www.freepbx.org) - Web-based open source GUI that controls and manages Asterisk. ([Source Code](http://git.freepbx.org/projects/FREEPBX)) `GPLv2` `PHP`
-  * [FusionPBX](https://www.fusionpbx.com/) - An open source project that provides a customizable and flexible web interface to the very powerful and highly scalable multi-platform voice switch called FreeSWITCH. ([Source Code](https://github.com/fusionpbx/fusionpbx)) `MPLv1.1` `PHP`
-  * [Kazoo](http://2600hz.org/) - KAZOO is an open-source, highly scalable software platform designed to provide carrier-grade VoIP switch functions and features. ([Source Code](https://github.com/2600hz/KAZOO)) `MPLv1.1` `Erlang`
+  * [Freepbx](http://www.freepbx.org) - 基于web的开源GUI，管理Asterisk. ([Source Code](http://git.freepbx.org/projects/FREEPBX)) `GPLv2` `PHP`
+  * [FusionPBX](https://www.fusionpbx.com/) - 开源项目用于提供一个自定义和灵活的web接口，用于非常强大高扩展的多平台语音切换  ([Source Code](https://github.com/fusionpbx/fusionpbx)) `MPLv1.1` `PHP`
+  * [Kazoo](http://2600hz.org/) - KAZOO开源，高扩展平台，用于提供载波级VOIP开关功能([Source Code](https://github.com/2600hz/KAZOO)) `MPLv1.1` `Erlang`
 
 ### Social Networks and Forums
 
@@ -820,10 +820,10 @@ See also <https://en.wikipedia.org/wiki/List_of_streaming_media_systems>, <https
 
 **[`^        back to top        ^`](#)**
 
-  * [411](https://demo.fouroneone.io/) - An Alert Management Web Application. ([Source Code](https://github.com/etsy/411)) `MIT` `PHP`
-  * [Anchr](https://anchr.io) - Anchr is a toolbox for tiny tasks on the internet, including bookmark collections, URL shortening and (encrypted) image uploads. ([Source Code](https://github.com/n1try/anchr)) `GPLv3` `Nodejs`
-  * [asciiflow](http://asciiflow.com/) - Flow Diagram Drawing Tool. ([Source Code](https://github.com/lewish/asciiflow2)) `GPLv3` `Java/JavaScript`
-  * [COPS](https://blog.slucas.fr/en/oss/calibre-opds-php-server) - A lightweight e-book server alternative to Calibre content server or Calibre2OPDS. ([Demo](http://cops-demo.slucas.fr/index.php), [Source Code](https://github.com/seblucas/cops)) `GPLv2` `PHP`
+  * [411](https://demo.fouroneone.io/) - 报警管理. ([Source Code](https://github.com/etsy/411)) `MIT` `PHP`
+  * [Anchr](https://anchr.io) - 工具集。包含书签手机，端地址，加密图片上传 ([Source Code](https://github.com/n1try/anchr)) `GPLv3` `Nodejs`
+  * [asciiflow](http://asciiflow.com/) - 流程图工具. ([Source Code](https://github.com/lewish/asciiflow2)) `GPLv3` `Java/JavaScript`
+  * [COPS](https://blog.slucas.fr/en/oss/calibre-opds-php-server) - 替代Calibre content server or Calibre2OPDS.的电子书工具 ([Demo](http://cops-demo.slucas.fr/index.php), [Source Code](https://github.com/seblucas/cops)) `GPLv2` `PHP`
   * [CrushPaper](https://www.crushpaper.com/) - Research the web for relevant sources, save quotations from them to CrushPaper and then combine them with your own insights into a paper. ([Source Code](https://github.com/ZapBlasterson/crushpaper)) `AGPLv3` `Java`
   * [DomainMOD](https://domainmod.org) - An application to manage your domains and other internet assets in a central location. DomainMOD includes a Data Warehouse framework that allows you to import your WHM/cPanel web server data so that you can view, export, and report on your data. ([Demo](https://demo.domainmod.org), [Source Code](https://github.com/domainmod/domainmod)) `GPLv3` `PHP`
   * [EasyBook Project](http://easybook-project.org/) - Book publishing as easy as it should be. ([Source Code](https://github.com/javiereguiluz/easybook)) `MIT` `PHP`
@@ -853,23 +853,23 @@ See also <https://en.wikipedia.org/wiki/List_of_streaming_media_systems>, <https
 
 See also https://github.com/n1trux/awesome-sysadmin#it-asset-management
 
-  * [Akaunting](https://akaunting.com/) - Akaunting is a free, online and open source accounting software designed for small businesses and freelancers. ([Source Code](https://github.com/akaunting/akaunting)) `GPLv3` `PHP`
-  * [Benedetto](https://github.com/arecker/bennedetto) - Bennedetto is a simple, turn-based budget management app. `GPLv3` `Python`
-  * [Budget App](https://www.budgetapp.io/) - Budget App is an open source personal budgeting application. ([Demo](https://demo.budgetapp.io/), [Source Code](https://github.com/paukiatwee/budgetapp)) `Apache` `Java`
-  * [Dot Ledger](https://www.dotledger.com/) - A web-based personal finance management tool. ([Demo](https://demo.dotledger.com/), [Source Code](https://github.com/dotledger/dotledger)) `Apache` `Ruby`
-  * [Economizzer](http://www.economizzer.org/) - Economizzer is a simple and open source personal finance manager system, available in English, Portuguese (PT|BR) and Russian. ([Source Code](https://github.com/gugoan/economizzer)) `MIT` `PHP`
-  * [ExMoney](https://github.com/gaynetdinov/ex_money) - A [work-in-progress] self-hosted personal finance app. `ISC` `Elixir`
-  * [Firefly III](https://firefly-iii.github.io/) - Firefly III is a modern financial manager. It helps you to keep track of your money and make budget forecasts. It supports credit cards, shared household accounts, and savings accounts. It's powered by Laravel and requires PHP7.1. ([Demo](https://firefly-iii.nder.be/), [Source Code](https://github.com/firefly-iii/firefly-iii)) `GPLv3` `PHP`
-  * [Galette](http://galette.eu/dc/) - Galette is a membership management web application towards non profit organizations. ([Source Code](http://git.tuxfamily.org/galette/galette.git/)) `GPLv3` `PHP`
-  * [GRR](http://grr.devome.com/?lang=en) - Assets management and booking for small/medium companies. ([Source Code](https://github.com/JeromeDevome/GRR)) `GPLv2` `PHP`
-  * [Hospital Run](http://hospitalrun.io/) - Hospital Run is offline enabled hospital management software. ([Source Code](https://github.com/HospitalRun/hospitalrun-server), [Demo](http://hospitalrun.io/demo/)) `GPLv3` `Nodejs`
-  * [Inventaire](https://inventaire.io/welcome) - Collaborative resources mapper project, while yet only focused on exploring books mapping with wikidata and ISBNs. ([Source Code](https://github.com/inventaire/inventaire)) `AGPLv3` `Nodejs`
-  * [Invoice Ninja](https://www.invoiceninja.org/) - A powerful tool to invoice clients online. ([Demo](https://app.invoiceninja.com/invoices/create), [Source Code](https://github.com/invoiceninja/invoiceninja)) `AAL` `PHP`
-  * [InvoicePlane](https://invoiceplane.com/) - Manage quotes, invoices, payments and customers for your small business. ([Demo](https://demo.invoiceplane.com), [Source Code](https://github.com/InvoicePlane/InvoicePlane)) `MIT` `PHP`
-  * [IHateMoney](http://ihatemoney.org/) - Manage your shared expenses, easily. ([Source Code](https://github.com/spiral-project/ihatemoney)) `BSD` `Python`
-  * [Koha](https://koha-community.org/) - Fully featured, scalable library management system (integrated library system - ILS). ([Source Code](https://github.com/Koha-Community/Koha)) `GPLv3` `Perl`
-  * [PartKeepr](https://www.partkeepr.org) - PartKeepr is an electronic part inventory management software. It helps you to keep track of your available parts and assist you with re-ordering parts. ([Demo](https://demo.partkeepr.org/), [Source Code](https://github.com/partkeepr/PartKeepr)) `GPLv3` `PHP`
-  * [StockazNG](https://dev.sigpipe.me/dashie/StockazNG) - Asset Management System. `MIT` `Python`
+  * [Akaunting](https://akaunting.com/) - Akaunting免费在线用于小生意和自由工作者 ([Source Code](https://github.com/akaunting/akaunting)) `GPLv3` `PHP`
+  * [Benedetto](https://github.com/arecker/bennedetto) - Bennedetto 简单账本管理 `GPLv3` `Python`
+  * [Budget App](https://www.budgetapp.io/) - 个人账本管理 ([Demo](https://demo.budgetapp.io/), [Source Code](https://github.com/paukiatwee/budgetapp)) `Apache` `Java`
+  * [Dot Ledger](https://www.dotledger.com/) - 个人财务管理工具. ([Demo](https://demo.dotledger.com/), [Source Code](https://github.com/dotledger/dotledger)) `Apache` `Ruby`
+  * [Economizzer](http://www.economizzer.org/) - Economizzer 简单金融管理系统 ([Source Code](https://github.com/gugoan/economizzer)) `MIT` `PHP`
+  * [ExMoney](https://github.com/gaynetdinov/ex_money) - A [work-in-progress] 个人金融appp `ISC` `Elixir`
+  * [Firefly III](https://firefly-iii.github.io/) - Firefly III现代财务管理器，帮你跟踪你的财富和作出预测，支持信用卡，账户，省钱账户 ([Demo](https://firefly-iii.nder.be/), [Source Code](https://github.com/firefly-iii/firefly-iii)) `GPLv3` `PHP`
+  * [Galette](http://galette.eu/dc/) - Galette关系管理系统. ([Source Code](http://git.tuxfamily.org/galette/galette.git/)) `GPLv3` `PHP`
+  * [GRR](http://grr.devome.com/?lang=en) - 资产管理 ([Source Code](https://github.com/JeromeDevome/GRR)) `GPLv2` `PHP`
+  * [Hospital Run](http://hospitalrun.io/) - Hospital医院管理软件 ([Source Code](https://github.com/HospitalRun/hospitalrun-server), [Demo](http://hospitalrun.io/demo/)) `GPLv3` `Nodejs`
+  * [Inventaire](https://inventaire.io/welcome) - 书本映射 wikidata and ISBNs. ([Source Code](https://github.com/inventaire/inventaire)) `AGPLv3` `Nodejs`
+  * [Invoice Ninja](https://www.invoiceninja.org/) - 发票管理器 ([Demo](https://app.invoiceninja.com/invoices/create), [Source Code](https://github.com/invoiceninja/invoiceninja)) `AAL` `PHP`
+  * [InvoicePlane](https://invoiceplane.com/) - 管理支出发票 ([Demo](https://demo.invoiceplane.com), [Source Code](https://github.com/InvoicePlane/InvoicePlane)) `MIT` `PHP`
+  * [IHateMoney](http://ihatemoney.org/) - 管理支出. ([Source Code](https://github.com/spiral-project/ihatemoney)) `BSD` `Python`
+  * [Koha](https://koha-community.org/) - 可扩展的库. ([Source Code](https://github.com/Koha-Community/Koha)) `GPLv3` `Perl`
+  * [PartKeepr](https://www.partkeepr.org) - PartKeepr创新管理. ([Demo](https://demo.partkeepr.org/), [Source Code](https://github.com/partkeepr/PartKeepr)) `GPLv3` `PHP`
+  * [StockazNG](https://dev.sigpipe.me/dashie/StockazNG) - 资产管理 `MIT` `Python`
 
 
 ## Monitoring
@@ -885,37 +885,37 @@ See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com
 
 *See also [Wikis](#wikis)*
 
-  * [dillinger](http://dillinger.io/) - The last Markdown editor, ever. ([Source Code](https://github.com/joemccann/dillinger/)) `MIT` `Nodejs`
-  * [draw.io](https://draw.io) - Diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams. ([Source Code](https://github.com/jgraph/drawio)) `Apache` `JavaScript`
-  * [HackMD](https://www.hackmd.io) - Realtime collaborative markdown notes on all platforms. ([Source Code](https://github.com/hackmdio/hackmd/)) `MIT` `Node.js`
-  * [Laverna](https://laverna.cc/) - Laverna is a Javascript note taking application with Markdown editor and encryption support. Consider it like open source alternative to Evernote. ([Demo](https://laverna.cc/index.html#notes), [Source Code](https://github.com/Laverna/laverna)) `MPLv2` `Nodejs`
-  * [Leanote](http://leanote.org/) - Leanote, Not Just A Notepad! Open source cloud notepad. ([Demo](https://leanote.com/note), [Source Code](https://github.com/leanote/leanote)) `GPLv2` `Go`
-  * [Markdown Edit](http://georgeosddev.github.com/markdown-edit/) - Online markdown editor/viewer. ([Source Code](https://github.com/georgeOsdDev/markdown-edit)) `MIT` `HTML5`
-  * [Meemo](https://meemo.minimal-space.de/) - Personal notes stream with Markdown support. ([Source Code](https://github.com/nebulade/meemo)) `MIT` `Nodejs`
+  * [dillinger](http://dillinger.io/) - 最后一个 Markdown编辑器 ([Source Code](https://github.com/joemccann/dillinger/)) `MIT` `Nodejs`
+  * [draw.io](https://draw.io) - 画图软件，用于制作流程图，过程图，组织图 UML, ER and network图等  ([Source Code](https://github.com/jgraph/drawio)) `Apache` `JavaScript`
+  * [HackMD](https://www.hackmd.io) - 全平台实时协作md编辑器 ([Source Code](https://github.com/hackmdio/hackmd/)) `MIT` `Node.js`
+  * [Laverna](https://laverna.cc/) - Laverna是Evernote的开源版本. ([Demo](https://laverna.cc/index.html#notes), [Source Code](https://github.com/Laverna/laverna)) `MPLv2` `Nodejs`
+  * [Leanote](http://leanote.org/) - Leanote,不仅仅是一个笔记本 ([Demo](https://leanote.com/note), [Source Code](https://github.com/leanote/leanote)) `GPLv2` `Go`
+  * [Markdown Edit](http://georgeosddev.github.com/markdown-edit/) - 在线md编辑和查看器 ([Source Code](https://github.com/georgeOsdDev/markdown-edit)) `MIT` `HTML5`
+  * [Meemo](https://meemo.minimal-space.de/) - 个人md编辑器 ([Source Code](https://github.com/nebulade/meemo)) `MIT` `Nodejs`
   * [minimalist-web-notepad](https://github.com/pereorga/minimalist-web-notepad) - A minimalist notepad.cc clone. `Apache` `PHP`
-  * [MiniNote](https://github.com/n1try/mininote) - A simple Markdown note-taking app with persistence. `MIT` `Nodejs`
-  * [notes](https://github.com/SSilence/notes) - Simple script for personal notes with a single page with a WYSIWYG Editor. `GPLv3` `PHP`
-  * [OpenNote](https://github.com/FoxUSA/OpenNote) - OpenNote was built to be an open web-based alternative to Microsoft OneNote (T) and EverNote. ([Demo](https://foxusa.github.io/OpenNote/OpenNote/#/folder)) `MIT` `HTML5`
-  * [Paperwork](http://paperwork.rocks) - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep. ([Source Code](https://github.com/twostairs/paperwork)) `MIT` `PHP`
-  * [savepad](https://github.com/novavex/textpad) - A minimalist notepad based on notepad.cc. `MIT` `PHP`
-  * [SiMPad](https://gitlab.com/beli3ver/SiMPad) - A simple self-hosted Markdown notepad. ([Demo](https://pad.malte-kiefer.de/)) `MIT` `PHP`
-  * [ShareLaTex](https://www.sharelatex.com/) - A web-based collaborative LaTeX editor. ([Source Code](https://github.com/sharelatex/sharelatex)) `AGPLv3` `Ruby`
-  * [Standard Notes](https://standardnotes.org) - A simple and private notes app. Protect your privacy while getting more done. That's Standard Notes. ([Demo](https://app.standardnotes.org/), [Source Code](https://github.com/standardnotes)) `GPLv3` `Ruby`
-  * [to-markdown](https://domchristie.github.io/to-markdown/) - An HTML to Markdown converter written in JavaScript. ([Source Code](https://github.com/domchristie/to-markdown)) `MIT` `JavaScript`
-  * [Turtl](https://turtl.it/) - A totally private personal database and note taking app. ([Source Code](https://github.com/turtl)) `GPLv3` `CommonLisp`
+  * [MiniNote](https://github.com/n1try/mininote) - 持久话的简单md编辑器 `MIT` `Nodejs`
+  * [notes](https://github.com/SSilence/notes) -  WYSIWYG Editor. `GPLv3` `PHP`
+  * [OpenNote](https://github.com/FoxUSA/OpenNote) -  Microsoft OneNote (T) and EverNote的替代 ([Demo](https://foxusa.github.io/OpenNote/OpenNote/#/folder)) `MIT` `HTML5`
+  * [Paperwork](http://paperwork.rocks) - Evernote, Microsoft OneNote & Google Keep的替代 ([Source Code](https://github.com/twostairs/paperwork)) `MIT` `PHP`
+  * [savepad](https://github.com/novavex/textpad) - 基于notepad.cc的笔记本. `MIT` `PHP`
+  * [SiMPad](https://gitlab.com/beli3ver/SiMPad) - 简单的自部署md ([Demo](https://pad.malte-kiefer.de/)) `MIT` `PHP`
+  * [ShareLaTex](https://www.sharelatex.com/) - 基于web自定义的 LaTeX编辑器 ([Source Code](https://github.com/sharelatex/sharelatex)) `AGPLv3` `Ruby`
+  * [Standard Notes](https://standardnotes.org) - 简单，私密的笔记应用([Demo](https://app.standardnotes.org/), [Source Code](https://github.com/standardnotes)) `GPLv3` `Ruby`
+  * [to-markdown](https://domchristie.github.io/to-markdown/) - md转换器 ([Source Code](https://github.com/domchristie/to-markdown)) `MIT` `JavaScript`
+  * [Turtl](https://turtl.it/) - 完全私有用户笔记 ([Source Code](https://github.com/turtl)) `GPLv3` `CommonLisp`
 
 
 ## Office Suites
 
 **[`^        back to top        ^`](#)**
 
-  * [EtherCalc](https://ethercalc.org/) - Web spreadsheet. ([Source Code](https://github.com/audreyt/ethercalc)) `CPALv1/Other` `Nodejs`
-  * [EtherDraw](https://github.com/JohnMcLear/draw) - An intuitive collaborative drawing web based tool. `Apache` `Nodejs`
-  * [Etherpad](http://etherpad.org/) - Etherpad is a highly customizable Open Source online editor providing collaborative editing in really real-time. ([Demo](https://demo.sandstorm.io/appdemo/h37dm17aa89yrd8zuqpdn36p6zntumtv08fjpu8a8zrte7q1cn60), [Source Code](https://github.com/ether/etherpad-lite)) `Apache` `Nodejs`
-  * [Infinoted](https://github.com/gobby/gobby/wiki/Dedicated%20Server) - A server for [Gobby](https://github.com/gobby/gobby/wiki), a multi-platform collaborative text editor. ([Source Code](https://github.com/gobby/gobby)) `MIT` `C++`
-  * [ONLYOFFICE](http://onlyoffice.org/) - An office suite that enables you to manage documents, projects, team and customer relations in one place. ([Source Code](https://github.com/ONLYOFFICE/DocumentServer)) `AGPLv3` `Nodejs`
-  * [PHPOffice](http://phpoffice.github.io/) - PHPOffice contains libraries which permits to write and read files from most office suites. `LGPLv3` `PHP`
-  * [WebODF](http://webodf.org/) - Tools and libraries to view and edit Open Document Format (ODF) files. ([Source Code](https://github.com/kogmbh/WebODF)) `AGPLv3` `HTML5`
+  * [EtherCalc](https://ethercalc.org/) - 扩展sheet  ([Source Code](https://github.com/audreyt/ethercalc)) `CPALv1/Other` `Nodejs`
+  * [EtherDraw](https://github.com/JohnMcLear/draw) - web协作会话工具`Apache` `Nodejs`
+  * [Etherpad](http://etherpad.org/) - Etherpad 高度自定义的开源编辑器 ，提供实时协作编辑能力. ([Demo](https://demo.sandstorm.io/appdemo/h37dm17aa89yrd8zuqpdn36p6zntumtv08fjpu8a8zrte7q1cn60), [Source Code](https://github.com/ether/etherpad-lite)) `Apache` `Nodejs`
+  * [Infinoted](https://github.com/gobby/gobby/wiki/Dedicated%20Server) - A server for [Gobby](https://github.com/gobby/gobby/wiki), 多平台协作编辑器 ([Source Code](https://github.com/gobby/gobby)) `MIT` `C++`
+  * [ONLYOFFICE](http://onlyoffice.org/) - offlice组件能使你管理文档，项目，团队和用户关系. ([Source Code](https://github.com/ONLYOFFICE/DocumentServer)) `AGPLv3` `Nodejs`
+  * [PHPOffice](http://phpoffice.github.io/) - PHPOffice可以让你读写醉常用的office组件  `LGPLv3` `PHP`
+  * [WebODF](http://webodf.org/) - 工具库让你浏览和编辑otf文件 ([Source Code](https://github.com/kogmbh/WebODF)) `AGPLv3` `HTML5`
 
 
 ## Password Managers
