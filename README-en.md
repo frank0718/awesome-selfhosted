@@ -99,16 +99,16 @@ For personal analytics/dashboards, see [Personal Dashboards](https://github.com/
 
 _Web Analytics_
 
-  * [AWStats](http://www.awstats.org/) - 产生 web, streaming, ftp or mail server 统计分析数据 ([Source Code](https://github.com/eldy/awstats)) `GPLv3` `Perl`
-  * [Countly](https://count.ly) - 适时移动端和web分析，崩溃报告和推送消息平台. ([Source Code](https://github.com/countly)) `AGPLv3` `Javascript`
-  * [Druid](http://druid.io/) - 分布式、面向列的实时分析数据存储([Source Code](https://github.com/druid-io/druid/)) `Apache` `Java`
-  * [GoAccess](http://goaccess.io/) - 在终端上实时分析网络日志和交互式查看数据. ([Source Code](https://github.com/allinurl/goaccess)) `GPLv2` `C`
+  * [AWStats](http://www.awstats.org/) - Generates web, streaming, ftp or mail server statistics graphically. ([Source Code](https://github.com/eldy/awstats)) `GPLv3` `Perl`
+  * [Countly](https://count.ly) - Real time mobile & web analytics, crash reporting and push notifications platform. ([Source Code](https://github.com/countly)) `AGPLv3` `Javascript`
+  * [Druid](http://druid.io/) - A distributed, column-oriented, real-time analytics data store. ([Source Code](https://github.com/druid-io/druid/)) `Apache` `Java`
+  * [GoAccess](http://goaccess.io/) - Real-time web log analyzer and interactive viewer that runs in a terminal. ([Source Code](https://github.com/allinurl/goaccess)) `GPLv2` `C`
   * [Open Web Analytics](http://www.openwebanalytics.com/) - Google Analytics and Piwik alternative. ([Source Code](https://github.com/padams/Open-Web-Analytics/)) `GPLv2` `PHP`
-  * [Piwik](https://piwik.org/) - 领先的开源分析平台，能带给你不仅是有力的分析能力. ([Source Code](https://github.com/piwik/)) `GPLv3` `PHP`
-  * [Rakam](https://rakam.io/) - 自助分析平台允许你创建自己的数据分析服务。整合任意数据源(web, mobile, IoT etc.), 使用SQL分析数据和创建大盘。([Source Code](https://github.com/rakam-io/rakam)) `Apache` `Java`
-  * [Serposcope](https://serposcope.serphacker.com/) - 是一个免费开源的网站排名跟踪器，能够监控在google上的排名，进行seo优化。([Source Code](https://github.com/serphacker/serposcope)) `MIT` `Java`
-  * [Snowplow](http://snowplowanalytics.com/) - 保存你网站，移动应用，桌面应用和服务端系统的每一个事件，存储在你自己的数仓中，而且具有实时能力。([Source Code](https://github.com/snowplow/)) `Apache` `Scala`
-  * [Suet](https://suet.co/) `⚠` - 详细的分析和报告Mailgun交易邮件([Source Code](https://github.com/kehers/suet)) `GPLv3` `Nodejs`
+  * [Piwik](https://piwik.org/) - Leading open-source analytics platform that gives you more than just powerful analytics. ([Source Code](https://github.com/piwik/)) `GPLv3` `PHP`
+  * [Rakam](https://rakam.io/) - Custom analytics platform that allows you to create your own analytics services. Integrate with any data source (web, mobile, IoT etc.), analyze data with SQL and create dashboards. ([Source Code](https://github.com/rakam-io/rakam)) `Apache` `Java`
+  * [Serposcope](https://serposcope.serphacker.com/) - Serposcope is a free and open-source rank tracker to monitor websites ranking in Google and improve your SEO performances. ([Source Code](https://github.com/serphacker/serposcope)) `MIT` `Java`
+  * [Snowplow](http://snowplowanalytics.com/) - Have every single event, from your websites, mobile apps, desktop applications and server-side systems, stored in your own data warehouse and available to action in real-time. ([Source Code](https://github.com/snowplow/)) `Apache` `Scala`
+  * [Suet](https://suet.co/) `⚠` - Detailed analytics and reporting for your Mailgun transactional emails. ([Source Code](https://github.com/kehers/suet)) `GPLv3` `Nodejs`
 
 _Business Intelligence_
 
@@ -1358,5 +1358,3 @@ The list of authors can be found [here](AUTHORS.md).
 ## License
 
 This list is under the [Creative Commons Attribution-ShareAlike 3.0 Unported](LICENSE) License.
-
-
