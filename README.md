@@ -158,42 +158,42 @@ _Business Intelligence_
 
 See also [Static Site Generators](#static-site-generators), [Content Management Systems](#content-management-systems-cms) and [WeblogMatrix](http://www.weblogmatrix.org/)
 
-  * [Anchor CMS](https://anchorcms.com/) - Anchor is a free, lightweight, faster-than-a-bullet, simple blogging system, made for art–directed posts. ([Source Code](https://github.com/anchorcms/anchor-cms)) `GPLv3` `PHP`
-  * [Antville](https://antville.org) - Antville is a free, open source project aimed at the development of a high performance, feature rich weblog hosting software. ([Source Code](https://github.com/antville/antville)) `Apache` `Javascript`
-  * [Blogotext](http://lehollandaisvolant.net/blogotext/) - A free blog-engine written in PHP and using SQLite. This offers you both an unmatched simplicity during installation and great performances. ([Source Code](https://github.com/timovn/blogotext)) `MIT` `PHP`
-  * [Bludit](https://www.bludit.com/) `⚠` - Simple application to build a site or blog in seconds. Bludit uses flat-files (text files in JSON format) to store posts and pages. ([Demo](http://demo-bludit.rhcloud.com/), [Source Code](https://github.com/dignajar/bludit)) `MIT` `PHP`
-  * [Chyrp](https://github.com/chyrp/chyrp) - An extra-awesome, extra-lightweight blog engine. `MIT` `PHP`
-  * [Dotclear](http://dotclear.org/) - Take control over your blog. ([Source Code](https://hg.dotclear.org/dotclear)) `GPLv2` `PHP`
-  * [Formtools](https://formtools.org/) - Powerful, flexible, free and open source PHP/MySQL script to manage your forms and data. ([Source Code](https://github.com/formtools)) `GPLv2` `PHP`
-  * [Ghost](https://ghost.org/) - Just a blogging platform. ([Source Code](https://github.com/TryGhost/Ghost)) `MIT` `Nodejs`
-  * [Hexo](https://hexo.io/) - A fast, simple & powerful blog framework, powered by Node.js. ([Source Code](https://github.com/hexojs/hexo)) `MIT` `Nodejs`
-  * [Hotglue](https://hotglue.me/) - HOTGLUE is a freehand CMS which allows to construct websites directly in a web-browser. It uses flat files for storage and provides an intuitive GUI. ([Demo](https://hotglue.me/demo/), [Source Code](https://github.com/k0a1a/hotglue2)) `GPLv3` `PHP`
-  * [htmly](https://www.htmly.com/) - Databaseless Blogging Platform (Flat-File Blog). ([Demo](https://www.htmly.com/demo/), [Source Code](https://github.com/danpros/htmly)) `GPLv2` `PHP`
-  * [Known](https://withknown.com/) - A single website for all your content. ([Source Code](https://github.com/idno/idno)) `Apache` `PHP`
-  * [Noddity](http://noddity.com/) - It's a blog, it's a wiki, it's a fast CMS. ([Source Code](https://github.com/TehShrike/noddity)) `WTFPL` `Nodejs`
-  * [PluXml](http://www.pluxml.org/) - XML-based blog/CMS platform. ([Source Code](https://github.com/pluxml/PluXml)) `GPL` `PHP`
-  * [Postleaf](https://www.postleaf.org/) - An open source blogging platform with inline editing, handlebar templates, and a beautiful user interface. ([Source Code](https://github.com/Postleaf/postleaf)) `MIT` `Nodejs`
-  * [Solo](http://b3log.org/) - A blogging system written in Java, feel free to create your or your team own blog. ([Demo](http://88250.b3log.org/), [Source Code](https://github.com/b3log/solo)) `Apache` `Java`
-  * [WordPress](https://wordpress.org/) - Create a beautiful website or blog. ([Source Code](https://github.com/WordPress/WordPress)) `GPLv2` `PHP`
+  * [Anchor CMS](https://anchorcms.com/) - Anchor是一款免费，轻量级，比子弹还快的，监控单博客系统，面向艺术的博文  ([Source Code](https://github.com/anchorcms/anchor-cms)) `GPLv3` `PHP`
+  * [Antville](https://antville.org) - Antville开源免费，具有高性能和丰富功能([Source Code](https://github.com/antville/antville)) `Apache` `Javascript`
+  * [Blogotext](http://lehollandaisvolant.net/blogotext/) - 简单博客平台，安装过程提供了无可比拟的简单和高性能 ([Source Code](https://github.com/timovn/blogotext)) `MIT` `PHP`
+  * [Bludit](https://www.bludit.com/) `⚠` - 秒级构建网站博客，使用json存储博文 ([Demo](http://demo-bludit.rhcloud.com/), [Source Code](https://github.com/dignajar/bludit)) `MIT` `PHP`
+  * [Chyrp](https://github.com/chyrp/chyrp) - 超赞的轻量级博客引擎。 `MIT` `PHP`
+  * [Dotclear](http://dotclear.org/) - 管理你的blog ([Source Code](https://hg.dotclear.org/dotclear)) `GPLv2` `PHP`
+  * [Formtools](https://formtools.org/) - 强有力的，灵活管理表单数据([Source Code](https://github.com/formtools)) `GPLv2` `PHP`
+  * [Ghost](https://ghost.org/) -  一个博客平台 ([Source Code](https://github.com/TryGhost/Ghost)) `MIT` `Nodejs`
+  * [Hexo](https://hexo.io/) -  nodejs写的快速简单有力的博客框架 ([Source Code](https://github.com/hexojs/hexo)) `MIT` `Nodejs`
+  * [Hotglue](https://hotglue.me/) - 允许在网页上构建网站，用轻文本存储，提供了一个直观的ui. ([Demo](https://hotglue.me/demo/), [Source Code](https://github.com/k0a1a/hotglue2)) `GPLv3` `PHP`
+  * [htmly](https://www.htmly.com/) - 无db的博客平台. ([Demo](https://www.htmly.com/demo/), [Source Code](https://github.com/danpros/htmly)) `GPLv2` `PHP`
+  * [Known](https://withknown.com/) - 一个简单网站 ([Source Code](https://github.com/idno/idno)) `Apache` `PHP`
+  * [Noddity](http://noddity.com/) - 它是一个博客，一个wiki，一个快速的cms. ([Source Code](https://github.com/TehShrike/noddity)) `WTFPL` `Nodejs`
+  * [PluXml](http://www.pluxml.org/) - 基于XML博客平台([Source Code](https://github.com/pluxml/PluXml)) `GPL` `PHP`
+  * [Postleaf](https://www.postleaf.org/) - 一个优美的博客平台([Source Code](https://github.com/Postleaf/postleaf)) `MIT` `Nodejs`
+  * [Solo](http://b3log.org/) - java写的博客平台 ([Demo](http://88250.b3log.org/), [Source Code](https://github.com/b3log/solo)) `Apache` `Java`
+  * [WordPress](https://wordpress.org/) - 这个无需多言. ([Source Code](https://github.com/WordPress/WordPress)) `GPLv2` `PHP`
 
 
 ## Bookmarks & Link Sharing
 
 **[`^        back to top        ^`](#)**
 
-  * [Bookie](https://github.com/bookieio/Bookie) - Python based delicious.com replacement. `AGPLv3` `Python`
-  * [dyu/bookmarks](https://github.com/dyu/bookmarks) - Single-threaded/process bookmark app powered by leveldb and uWebSockets. Supports importing from Delicious and Chrome. ([Demo](https://dyuproject.com/bookmarks/)) `Apache` `Java`
-  * [Firefox Auth Server](https://docs.services.mozilla.com/howtos/run-fxa.html) - This project implements the core server-side API for Firefox Accounts. ([Source Code](https://github.com/mozilla/fxa-auth-server/)) `MPLv2` `Nodejs`
-   * [Firefox Content Server](https://docs.services.mozilla.com/howtos/run-fxa.html) - Static server that hosts Firefox Account sign up, sign in, email verification, etc. flows. ([Source Code](https://github.com/mozilla/fxa-content-server/)) `MPLv2` `Java`
-   * [Firefox Sync Server](https://docs.services.mozilla.com/howtos/run-sync-1.5.html) - Sync Firefox bookmarks, passwords, history, tabs, preferences. ([Source Code](https://github.com/mozilla-services/syncserver)) `MPLv2` `Python`
-  * [golinks](https://github.com/prologic/golinks) - Web application that allows you to create smart bookmarks, commands and aliases by pointing your web browser's default search engine at a running instance. Similar to bunny1 or yubnub. ([Demo](https://search.mills.io)) `MIT` `Go`
-  * [Lobsters](https://lobste.rs) - Run your own link aggregation site. ([Source Code](https://github.com/jcs/lobsters)) `BSD` `Ruby`
-  * [No Fuss Bookmarks](http://nofussbm.herokuapp.com/signup.html) - Very simple software and service to store bookmarks especially designed for hackers (that don't need fancy interfaces, but nice API). ([Source Code](https://github.com/mapio/nofussbm)) `GPLv3` `Python`
-  * [Pinry](http://getpinry.com/) - The tiling image board system for people who want to save, tag, and share images, videos, and webpages. ([Source Code](https://github.com/pinry/pinry)) `BSD` `Python`
-  * [saveto](https://save.duyet.net/) - An open source, home for the best links on the web. ([Source Code](https://github.com/saveto-co/saveto)) `MIT` `Nodejs`
-  * [SemanticScuttle](http://semanticscuttle.sourceforge.net/) - SemanticScuttle is a social bookmarking tool experimenting with features like structured tags and collaborative tag descriptions. ([Source Code](https://sourceforge.net/p/semanticscuttle/code/ci/master/tree/)) `GPLv2` `PHP`
-  * [Shaarli](https://github.com/shaarli/Shaarli) - Personal, minimalist, super-fast, no-database bookmarking and link sharing platform. ([Demo](https://demo.shaarli.org)) `Zlib` `PHP`
-  * [unmark](https://github.com/plainmade/unmark) - An open source to do app for links. `MIT` `PHP`
+  * [Bookie](https://github.com/bookieio/Bookie) - 替代delicious.com的书签管理器. `AGPLv3` `Python`
+  * [dyu/bookmarks](https://github.com/dyu/bookmarks) - 单线程/进程的书签app，使用leveldb和uWebSockets.支持从Delicious和Chrome导入。([Demo](https://dyuproject.com/bookmarks/)) `Apache` `Java`
+  * [Firefox Auth Server](https://docs.services.mozilla.com/howtos/run-fxa.html) - 实现了firefox账户核心的api。 ([Source Code](https://github.com/mozilla/fxa-auth-server/)) `MPLv2` `Nodejs`
+   * [Firefox Content Server](https://docs.services.mozilla.com/howtos/run-fxa.html) - 静态服务用于账户注册，邮件确认等 ([Source Code](https://github.com/mozilla/fxa-content-server/)) `MPLv2` `Java`
+   * [Firefox Sync Server](https://docs.services.mozilla.com/howtos/run-sync-1.5.html) - 同步 Firefox bookmarks, passwords, history, tabs, preferences. ([Source Code](https://github.com/mozilla-services/syncserver)) `MPLv2` `Python`
+  * [golinks](https://github.com/prologic/golinks) - 用于创建智能书签 ([Demo](https://search.mills.io)) `MIT` `Go`
+  * [Lobsters](https://lobste.rs) - 允许你自己的书签聚合网站. ([Source Code](https://github.com/jcs/lobsters)) `BSD` `Ruby`
+  * [No Fuss Bookmarks](http://nofussbm.herokuapp.com/signup.html) - 简单存储书签 ([Source Code](https://github.com/mapio/nofussbm)) `GPLv3` `Python`
+  * [Pinry](http://getpinry.com/) - 一个用户保存，打标签，分享图片视频网站的图片面板系统 ([Source Code](https://github.com/pinry/pinry)) `BSD` `Python`
+  * [saveto](https://save.duyet.net/) - 书签之家 ([Source Code](https://github.com/saveto-co/saveto)) `MIT` `Nodejs`
+  * [SemanticScuttle](http://semanticscuttle.sourceforge.net/) - 可以对书签打tag的工具。([Source Code](https://sourceforge.net/p/semanticscuttle/code/ci/master/tree/)) `GPLv2` `PHP`
+  * [Shaarli](https://github.com/shaarli/Shaarli) - 个人书签和连接分享平台([Demo](https://demo.shaarli.org)) `Zlib` `PHP`
+  * [unmark](https://github.com/plainmade/unmark) - todo app. `MIT` `PHP`
 
 ## Calendar and Address Books
 
@@ -201,15 +201,15 @@ See also [Static Site Generators](#static-site-generators), [Content Management 
 
 Some [Groupware](#groupware) solutions also feature calendar/address book editing and synchronization.
 
-  * [AgenDAV](http://agendav.org/) - Multilanguage CalDAV web client with a rich AJAX interface and shared calendars support. ([Source Code](https://github.com/agendav/agendav)) `GPLv3` `PHP`
-  * [Baïkal](http://baikal-server.com/) - Lightweight CalDAV+CardDAV server. ([Source Code](https://github.com/fruux/Baikal)) `GPLv3` `PHP`
-  * [CalendarServer](http://trac.calendarserver.org/) - A standards-compliant server implementing the CalDAV and CardDAV protocols. `Apache` `Python`
-  * [calypso](http://keithp.com/calypso/) - A python-based CalDAV/CardDAV server. ([Source Code](https://keithp.com/git/calypso.git)) `GPLv3` `Python`
-  * [DAViCal](http://www.davical.org/) - A server for calendar sharing (CalDAV). ([Source Code](https://gitlab.com/davical-project/davical)) `MIT` `PHP`
-  * [EteSync](https://www.etesync.com) - Secure, end-to-end encrypted and journaled personal information cloud synchronization for Android and the desktop. Currently contacts and calendars, with more on the way. ([Source Code](https://github.com/etesync/)) `AGPLv3` `Python/Django`
-  * [Radicale](http://radicale.org/) - A Simple Calendar and Contact Server. ([Source Code](https://github.com/Kozea/Radicale)) `GPLv3` `Python`
-  * [sabre/dav](http://sabre.io/) - A open source CardDAV, CalDAV and WebDAV server. ([Source Code](https://github.com/fruux/sabre-dav)) `MIT` `PHP`
-  * [InfCloud](https://www.inf-it.com/open-source/clients/infcloud/) - An open source CalDAV/CardDAV web client implementation. ([Demo](https://www.inf-it.com/infcloud/), [Source Code](https://www.inf-it.com/InfCloud_0.13.1.zip)) `AGPLv3` `Javascript`
+  * [AgenDAV](http://agendav.org/) - 多语言的日历支持。 ([Source Code](https://github.com/agendav/agendav)) `GPLv3` `PHP`
+  * [Baïkal](http://baikal-server.com/) - 轻量级的日历和电话本服务器. ([Source Code](https://github.com/fruux/Baikal)) `GPLv3` `PHP`
+  * [CalendarServer](http://trac.calendarserver.org/) - 标准兼容时间日历和电话本协议的服务. `Apache` `Python`
+  * [calypso](http://keithp.com/calypso/) - 基于python CalDAV/CardDAV server. ([Source Code](https://keithp.com/git/calypso.git)) `GPLv3` `Python`
+  * [DAViCal](http://www.davical.org/) - 日历分享服务 (CalDAV). ([Source Code](https://gitlab.com/davical-project/davical)) `MIT` `PHP`
+  * [EteSync](https://www.etesync.com) - 安全的端到端加密的个人星辰信息，同步到安卓和桌面应用 ([Source Code](https://github.com/etesync/)) `AGPLv3` `Python/Django`
+  * [Radicale](http://radicale.org/) - 简单日历和联系人服务 ([Source Code](https://github.com/Kozea/Radicale)) `GPLv3` `Python`
+  * [sabre/dav](http://sabre.io/) - 开源CardDAV, CalDAV and WebDAV server. ([Source Code](https://github.com/fruux/sabre-dav)) `MIT` `PHP`
+  * [InfCloud](https://www.inf-it.com/open-source/clients/infcloud/) - An open source CalDAV/CardDAV 客户端 ([Demo](https://www.inf-it.com/infcloud/), [Source Code](https://www.inf-it.com/InfCloud_0.13.1.zip)) `AGPLv3` `Javascript`
 
 
 ## Communication systems
@@ -218,35 +218,35 @@ Some [Groupware](#groupware) solutions also feature calendar/address book editin
 
 ### Custom
 
-  * [Actor](https://actor.im/) - Actor is a fast, open source messaging platform with rich mobile and web clients. ([Demo](https://app.actor.im), [Source Code](https://github.com/actorapp/actor-platform)) `AGPLv3` `Scala`
-  * [Broid](https://broid.ai) - Broid enables rich conversations on all messaging channels within a single schema integration using W3C standards. ([Demo](https://www.broid.ai), [Source Code](https://github.com/broidHQ/integrations)) `AGPLv3` `Nodejs`
-  * [Centrifugo](https://github.com/centrifugal/centrifugo) - Language-agnostic real-time messaging (Websocket or SockJS) server. ([Demo](https://github.com/centrifugal/centrifugo#demo)) `MIT` `Go`
-  * [Cherry](https://github.com/rafael-santiago/cherry) - A tiny webchat server. `GPLv2` `Go`
-  * [Freenet](https://freenetproject.org/index.html) - Anonymously share files, browse and publish "freesites" (web sites accessible only through Freenet) and chat on forums. ([Source Code](https://github.com/freenet/fred)) `GPLv2` `Java`
-  * [Friends](http://moose-team.github.io/friends/) - P2P chat powered by the web. ([Source Code](https://github.com/moose-team/friends)) `MIT` `Nodejs`
-  * [GNUnet](https://gnunet.org/) - Free software framework for decentralized, peer-to-peer networking. ([Source Code](https://gnunet.org/git/)) `GPLv3` `C`
-  * [hack.chat](https://hack.chat/) - A minimal, distraction-free chat application. ([Source Code](https://github.com/AndrewBelt/hack.chat)) `GPLv3` `Nodejs`
-  * [Hawkpost](https://hawkpost.co) - HawkPost is a web app that lets you create unique links that you can share with a person that desires to send you important information but doesn't know how to encrypt it. The message is encrypted in their browser and sent to your email address. ([Source Code](https://github.com/whitesmith/hawkpost)) `MIT` `Python`
-  * [Hubl.in](https://hubl.in/) - WebRTC powered video conference, chat and collaborative editor. ([Source Code](https://github.com/linagora/hublin)) `AGPLv3` `Nodejs`
-  * [Jitsi Meet](https://jitsi.org/Projects/JitsiMeet) - Jitsi Meet is an OpenSource (MIT) WebRTC Javascript application that uses Jitsi Videobridge to provide high quality, scalable video conferences. ([Source Code](https://github.com/jitsi/jitsi-meet)) `MIT` `Javascript`
-  * [Jitsi Video Bridge](https://jitsi.org/Projects/JitsiVideobridge) - WebRTC compatible Selective Forwarding Unit (SFU) that allows for multiuser video communication. ([Source Code](https://github.com/jitsi/jitsi-videobridge)) `Apache` `Java`
-  * [Kandan](http://getkandan.com/) - Kandan is an Open Source Alternative to HipChat. ([Source Code](https://github.com/kandanapp/kandan)) `AGPLv3` `Ruby`
-  * [KChat](https://github.com/php-kchat/kchat) - PHP Based Live Chat Aplication. `Apache` `PHP`
-  * [Lets-Chat](http://sdelements.github.io/lets-chat/) - A self hosted chat suite written in Node. ([Source Code](https://github.com/sdelements/lets-chat)) `MIT` `Nodejs`
-  * [Live Helper Chat](http://livehelperchat.com/) - Live Support chat for your website. ([Source Code](https://github.com/LiveHelperChat/livehelperchat)) `Apache` `PHP`
-  * [Mattermost](http://www.mattermost.org/) - Open-source, on-prem Slack-alternative. It can be integrated with [Gitlab](https://about.gitlab.com/). ([Source Code](https://github.com/mattermost/platform)) `AGPLv3/Apache` `Go`
-  * [MiAOU](https://dystroy.org/miaou/login) - A multi-room persistent chat server. ([Source Code](https://github.com/Canop/miaou)) `MIT` `Nodejs`
-  * [Mibew](https://mibew.org) - Mibew Messenger is an open-source live support application written in PHP and MySQL. It enables one-on-one chat assistance in real-time directly from your website. ([Demo](https://mibew.org/demo2), [Source Code](https://github.com/Mibew/mibew)) `Apache` `PHP`
-  * [Mumble](http://wiki.mumble.info/wiki/Main_Page) - Low-latency, high quality voice/text chat software. ([Source Code](https://github.com/mumble-voip/mumble)) `BSD` `C++`
-    * [Mumblecop](https://bitbucket.org/Flandoo/mumblecop) - Stream audio from youtube and soundcloud, simulate dice rolls, or write your own commands with a simple plugin format. `MIT` `Ruby`
-  * [Niltalk](http://niltalk.com/) - A simple, private, persistence-free web based multi-room chat server + client. ([Source Code](https://github.com/knadh/niltalk)) `AGPLv3` `Go`
-  * [Node-Chat](https://github.com/IgorAntun/node-chat) - A not-so-basic open-source chat with admin features. `MIT` `Nodejs`
-  * [Pushjet](https://pushjet.io/) - A self hosted push notification service built with a simple API making sending notifications easy. ([Source Code](https://github.com/Pushjet/Pushjet-Server-Api)) `BSD` `Python`
-  * [Rallly](http://rallly.co) - Rallly is a free collaborative scheduling service. ([Source Code](https://github.com/lukevella/Rallly)) `CCBYSA` `Nodejs`
-  * [RetroShare](http://retroshare.org) - Secured and decentralized communication system. Offers decentralized chat, forums, messaging, file transfer. ([Source Code](https://github.com/RetroShare/RetroShare)) `GPLv2` `С++`
-  * [Ring](https://ring.cx/) - Free software for universal communication which respects freedoms and privacy of its users. ([Source Code](https://github.com/savoirfairelinux/ring-project)) `GPLv3` `C++`
-  * [Rocket.Chat](https://rocket.chat/) - Teamchat solution similar to Gitter.im or Slack. ([Source Code](https://github.com/RocketChat/Rocket.Chat)) `MIT` `Nodejs`
-  * [Spectrum 2](http://spectrum.im/) - Spectrum 2 is an open source instant messaging transport.  It allows users to chat together even when they are using different IM networks. ([Source Code](https://github.com/hanzz/spectrum2)) `GPLv3` `C++`
+  * [Actor](https://actor.im/) - 快捷开源包含丰富移动和桌面客户端的消息平台([Demo](https://app.actor.im), [Source Code](https://github.com/actorapp/actor-platform)) `AGPLv3` `Scala`
+  * [Broid](https://broid.ai) - Broid使用W3C标准，具有单模式多消息通道的丰富会话 ([Demo](https://www.broid.ai), [Source Code](https://github.com/broidHQ/integrations)) `AGPLv3` `Nodejs`
+  * [Centrifugo](https://github.com/centrifugal/centrifugo) - 语言无关的消息服务(Websocket or SockJS) server. ([Demo](https://github.com/centrifugal/centrifugo#demo)) `MIT` `Go`
+  * [Cherry](https://github.com/rafael-santiago/cherry) - 微小的消息服务 . `GPLv2` `Go`
+  * [Freenet](https://freenetproject.org/index.html) - 匿名分享文件，浏览订阅自由网站，论坛闲聊 ([Source Code](https://github.com/freenet/fred)) `GPLv2` `Java`
+  * [Friends](http://moose-team.github.io/friends/) - P2P chat . ([Source Code](https://github.com/moose-team/friends)) `MIT` `Nodejs`
+  * [GNUnet](https://gnunet.org/) - 去中心化的自由软件框架 ([Source Code](https://gnunet.org/git/)) `GPLv3` `C`
+  * [hack.chat](https://hack.chat/) - 微小的聊天应用 ([Source Code](https://github.com/AndrewBelt/hack.chat)) `GPLv3` `Nodejs`
+  * [Hawkpost](https://hawkpost.co) - HawkPost是一个web app允许你创建独一无二的连接，你想把它分享给谁任何人，并不需要关心怎么加密的 ([Source Code](https://github.com/whitesmith/hawkpost)) `MIT` `Python`
+  * [Hubl.in](https://hubl.in/) - WebRTC提供视频会议和多人协作编辑 ([Source Code](https://github.com/linagora/hublin)) `AGPLv3` `Nodejs`
+  * [Jitsi Meet](https://jitsi.org/Projects/JitsiMeet) - Jitsi Meet是一个开源WEBRTC的js应用，你能用它提供高质，可扩展视频会议 ([Source Code](https://github.com/jitsi/jitsi-meet)) `MIT` `Javascript`
+  * [Jitsi Video Bridge](https://jitsi.org/Projects/JitsiVideobridge) - 可以多用户视频沟通 ([Source Code](https://github.com/jitsi/jitsi-videobridge)) `Apache` `Java`
+  * [Kandan](http://getkandan.com/) - Kandan是 HipChat的开源版本. ([Source Code](https://github.com/kandanapp/kandan)) `AGPLv3` `Ruby`
+  * [KChat](https://github.com/php-kchat/kchat) - 聊天应用. `Apache` `PHP`
+  * [Lets-Chat](http://sdelements.github.io/lets-chat/) - node写的聊天组件 ([Source Code](https://github.com/sdelements/lets-chat)) `MIT` `Nodejs`
+  * [Live Helper Chat](http://livehelperchat.com/) - 聊天软件. ([Source Code](https://github.com/LiveHelperChat/livehelperchat)) `Apache` `PHP`
+  * [Mattermost](http://www.mattermost.org/) - 开源。slack的替代，集成了 [Gitlab](https://about.gitlab.com/). ([Source Code](https://github.com/mattermost/platform)) `AGPLv3/Apache` `Go`
+  * [MiAOU](https://dystroy.org/miaou/login) - 多房间持续聊天服务([Source Code](https://github.com/Canop/miaou)) `MIT` `Nodejs`
+  * [Mibew](https://mibew.org) - 网站一对一的聊天助理 ([Demo](https://mibew.org/demo2), [Source Code](https://github.com/Mibew/mibew)) `Apache` `PHP`
+  * [Mumble](http://wiki.mumble.info/wiki/Main_Page) - 低延迟高质量语音文字聊天应用 ([Source Code](https://github.com/mumble-voip/mumble)) `BSD` `C++`
+    * [Mumblecop](https://bitbucket.org/Flandoo/mumblecop) - 语音流. `MIT` `Ruby`
+  * [Niltalk](http://niltalk.com/) - 简单私密持久免费的多房间聊天应用 ([Source Code](https://github.com/knadh/niltalk)) `AGPLv3` `Go`
+  * [Node-Chat](https://github.com/IgorAntun/node-chat) - 具有管理功能的聊天应用 `MIT` `Nodejs`
+  * [Pushjet](https://pushjet.io/) - 一个消息推送服务，具有简单发送通知的功能 ([Source Code](https://github.com/Pushjet/Pushjet-Server-Api)) `BSD` `Python`
+  * [Rallly](http://rallly.co) - Rallly具有协调调度的服务 ([Source Code](https://github.com/lukevella/Rallly)) `CCBYSA` `Nodejs`
+  * [RetroShare](http://retroshare.org) - 安全去中心化的通信系统 提供去中心化的聊天，论坛，消息和文件传输([Source Code](https://github.com/RetroShare/RetroShare)) `GPLv2` `С++`
+  * [Ring](https://ring.cx/) - 通用的通讯软件，尊重自由和用户隐私 ([Source Code](https://github.com/savoirfairelinux/ring-project)) `GPLv3` `C++`
+  * [Rocket.Chat](https://rocket.chat/) - 类似Gitter.im or Slack.团队聊天软件 ([Source Code](https://github.com/RocketChat/Rocket.Chat)) `MIT` `Nodejs`
+  * [Spectrum 2](http://spectrum.im/) - Spectrum开源即时传输，即使使用不用的IM网络也能一起聊天  ([Source Code](https://github.com/hanzz/spectrum2)) `GPLv3` `C++`
   * [Spreed](https://www.spreed.me/) - WebRTC audio/video calls, conferencing server, and web client. ([Source Code](https://github.com/strukturag/spreed-webrtc)) `AGPLv3` `Go`
   * [Synapse](http://matrix.org/docs/projects/server/synapse.html) - A server for [Matrix](https://matrix.org/), an open standard for decentralized persistent communication. ([Source Code](https://github.com/matrix-org/synapse)) `Apache` `Python`
     * [Matrix Console Web](http://matrix.org/docs/projects/client/matrix-console.html) - A web client meant to be a showcase of Matrix capabilities, and reference implementation of the Matrix standard. ([Source Code](https://github.com/matrix-org/matrix-angular-sdk)) `Apache` `Javascript`
