@@ -432,12 +432,12 @@ _[Extensible Messaging and Presence Protocol](https://en.wikipedia.org/wiki/XMPP
 
 **[`^        back to top        ^`](#)**
 
-  * [Conference Organizing Distribution (COD)](http://usecod.com/) - Create conference and event websites built on top of Drupal. ([Source Code](http://cgit.drupalcode.org/cod)) `GPL` `PHP`
-  * [frab](https://frab.github.io/frab/) - web-based conference planning and management system. It helps to collect submissions, to manage talks and speakers and to create a schedule. ([Source Code](https://github.com/frab/frab)) `MIT` `Ruby`
-  * [Open Conference Systems (OCS)](https://pkp.sfu.ca/ocs/) - is a free Web publishing tool that will create a complete Web presence for your scholarly conference. ([Demo](https://pkp.sfu.ca/ocs/ocs_demo/), [Source Code](https://github.com/pkp/ocs)) `GPL` `PHP`
-  * [OpenCFP](https://github.com/opencfp/opencfp) - OpenCFP is a PHP-based conference talk submission system. `MIT` `PHP`
-  * [OpenConferenceWare](http://openconferenceware.org/) - An open source web application for supporting conference-like events. This customizable, general-purpose platform provides proposals, sessions, schedules, tracks, user profiles. ([Source Code](https://github.com/osbridge/openconferenceware)) `MIT` `Ruby`
-  * [osem](http://osem.io/) - Event management tailored to free Software conferences. ([Demo](http://demo.osem.io/), [Source Code](https://github.com/openSUSE/osem)) `MIT` `Ruby`
+  * [Conference Organizing Distribution (COD)](http://usecod.com/) - 创建会议和事件 ([Source Code](http://cgit.drupalcode.org/cod)) `GPL` `PHP`
+  * [frab](https://frab.github.io/frab/) - 会议计划和管理 ([Source Code](https://github.com/frab/frab)) `MIT` `Ruby`
+  * [Open Conference Systems (OCS)](https://pkp.sfu.ca/ocs/) - 发布工具([Demo](https://pkp.sfu.ca/ocs/ocs_demo/), [Source Code](https://github.com/pkp/ocs)) `GPL` `PHP`
+  * [OpenCFP](https://github.com/opencfp/opencfp) - 会议沟通 `MIT` `PHP`
+  * [OpenConferenceWare](http://openconferenceware.org/) - . ([Source Code](https://github.com/osbridge/openconferenceware)) `MIT` `Ruby`
+  * [osem](http://osem.io/) - 量身定做的事件管理 conferences. ([Demo](http://demo.osem.io/), [Source Code](https://github.com/openSUSE/osem)) `MIT` `Ruby`
 
 
 ## Content Management Systems (CMS)
@@ -520,26 +520,26 @@ _Recipe management_
 
 See https://github.com/n1trux/awesome-sysadmin#dns
 
-  * [CoreDNS](https://coredns.io/) - Plugin driven DNS Server with support for proxying to Google's DNS-over-HTTPS. ([Source Code](https://github.com/coredns/coredns)) `Apache` `Go`
-  * [nsupdate.info](https://www.nsupdate.info/) - nsupdate.info is a dynamic DNS service. ([Demo](https://www.nsupdate.info/account/register/), [Source Code](https://github.com/nsupdate-info/nsupdate.info)) `BSD` `Python`
-  * [SPF Toolbox](http://spftoolbox.charlesabarnes.com) - Application to look up DNS records such as SPF, MX, Whois, and more. ([Source Code](https://github.com/bulbajackel/SPFtoolbox)) `MIT` `PHP`
+  * [CoreDNS](https://coredns.io/) - 插件话的dns ([Source Code](https://github.com/coredns/coredns)) `Apache` `Go`
+  * [nsupdate.info](https://www.nsupdate.info/) - 动态dns ([Demo](https://www.nsupdate.info/account/register/), [Source Code](https://github.com/nsupdate-info/nsupdate.info)) `BSD` `Python`
+  * [SPF Toolbox](http://spftoolbox.charlesabarnes.com) - dns查询. ([Source Code](https://github.com/bulbajackel/SPFtoolbox)) `MIT` `PHP`
 
 ## Document Archiving
 
 **[`^        back to top        ^`](#)**
 
-  * [CUPS](https://www.cups.org/) - The Common Unix Print System uses Internet Printing Protocol (IPP) to support printing to local and network printers. ([Source Code](https://www.cups.org/software.php)) `GPLv2` `C`
-  * [EdPaper](https://github.com/Edraens/EdPaper) - PDF organizer with users management. `MIT` `PHP`
-  * [Paperless](https://github.com/danielquinn/paperless) - Scan, index, and archive all of your paper documents. `GPLv3` `Python`
-  * [SANE Network Scanning](http://sane-project.org/) - allow remote clients to access image acquisition devices (scanners) available on the local host. ([Source Code](http://www.sane-project.org/cvs.html)) `GPLv2` `C`
+  * [CUPS](https://www.cups.org/) - 打印([Source Code](https://www.cups.org/software.php)) `GPLv2` `C`
+  * [EdPaper](https://github.com/Edraens/EdPaper) - 用户管理. `MIT` `PHP`
+  * [Paperless](https://github.com/danielquinn/paperless) - 扫描索引所有文档. `GPLv3` `Python`
+  * [SANE Network Scanning](http://sane-project.org/) - 允许远端用户扫描. ([Source Code](http://www.sane-project.org/cvs.html)) `GPLv2` `C`
 
 
 ## Enterprise Resource Planning
 
 **[`^        back to top        ^`](#)**
 
-* [ERPNext](https://erpnext.com) - Free open source ERP system. ([Demo](https://demo.erpnext.com), [Source Code](https://github.com/frappe/erpnext)) `GPLv3` `Python`
-* [LedgerSMB](https://ledgersmb.org/) - Integrated accounting and ERP system for small and midsize businesses, with double entry accounting, budgeting, invoicing, quotations, projects, orders and inventory management, shipping and more. ([Demo](https://demo.cloud.efficito.com/erp/1.5/login.pl), [Source Code](https://github.com/ledgersmb/LedgerSMB)) `GPLv2` `Perl`
+* [ERPNext](https://erpnext.com) - . ([Demo](https://demo.erpnext.com), [Source Code](https://github.com/frappe/erpnext)) `GPLv3` `Python`
+* [LedgerSMB](https://ledgersmb.org/) - 集成账户 ERP系统，对于小型的企业， ([Demo](https://demo.cloud.efficito.com/erp/1.5/login.pl), [Source Code](https://github.com/ledgersmb/LedgerSMB)) `GPLv2` `Perl`
 * [Odoo](http://odoo.com) - Free open source ERP system. ([Demo](https://demo.odoo.com/), [Source Code](https://github.com/odoo/odoo)) `LGPLv3` `Python`
 * [Tryton](http://www.tryton.org/) - Free open source business solution. ([Demo](http://www.tryton.org/download.html), [Source Code](https://hg.tryton.org/)) `GPLv3` `Python`
 
@@ -1006,53 +1006,53 @@ See https://github.com/n1trux/awesome-sysadmin#metric--metric-collection
 
 **[`^        back to top        ^`](#)**
 
-  * [Calagator](http://calagator.org/) - An event aggregator. ([Demo](http://calagator.org/), [Source code](https://github.com/calagator/calagator)) `MIT` `Ruby`
-  * [Clerk](https://github.com/chr15m/Clerk) - Simple event logger to keep track of periodic events, habits, etc. as they occur. `GPLv3` `PHP`
-  * [dudle](http://primelife.ercim.eu/results/opensource/63-dudle) - An online scheduling application. ([Demo](https://dudle.inf.tu-dresden.de/)) `AGPLv3` `Ruby`
-  * [Fider](http://getfider.com) - An open source alternative to UserVoice for customer feedback. ([Demo](https://demo.fider.io), [Source Code](https://github.com/getfider/fider)) `MIT` `Go`
-  * [Framadate](https://framadate.org/) - An online service for planning an appointment or make a decision quickly and easily: Make a poll, Define dates or subjects to choose, Send the poll link to your friends or colleagues, Discuss and make a decision. ([Demo](https://framadate.org/aqg259dth55iuhwm), [Source Code](https://git.framasoft.org/framasoft/framadate)) `CeCILL-B` `PHP`
-  * [Kyélà](http://kyela.net/) - Participation polls for group events. ([Demo](http://kyela.net/55232734237c8/), [Source Code](https://github.com/abienvenu/Kyela)) `AGPLv3` `PHP`
-  * [LimeSurvey](https://www.limesurvey.org) - Feature-rich Open Source web based polling software. Supports extensive survey logic. ([Demo](https://demo.limesurvey.org), [Source code](https://github.com/LimeSurvey/LimeSurvey)) `GPLv2` `PHP`
-  * [MaterialPoll](https://github.com/nearbycoder/materialpoll) - An opensource strawpoll.me clone for creating random polls. ([Demo](http://materialpoll.tk), [Source Code](https://github.com/nearbycoder/materialpoll)) `MIT` `Nodejs`
-  * [Nuages](https://nuages.domainepublic.net/) - Collaborative meeting poll system, similar to doodle or rdvz. ([Source Code](http://git.domainepublic.net/?p=nuages.git;a=tree)) `GPLv3` `Python`
-  * [PHPBack](http://www.phpback.org) - The open source feedback system. ([Demo](http://www.phpback.org/demo/), [Source Code](https://github.com/ivandiazwm/phpback/)) `GPLv3` `PHP`
-  * [TellForm](https://tellform.com) - A beautiful online form and survey creator. ([Demo](https://tellform.com/examples), [Source Code](https://github.com/whitef0x0/tellform)) `MIT` `Nodejs`
+  * [Calagator](http://calagator.org/) - 时间聚合器 ([Demo](http://calagator.org/), [Source code](https://github.com/calagator/calagator)) `MIT` `Ruby`
+  * [Clerk](https://github.com/chr15m/Clerk) - 简单的事件记录器，跟踪周期性的事件，习惯等等 . `GPLv3` `PHP`
+  * [dudle](http://primelife.ercim.eu/results/opensource/63-dudle) - 在线调度应用 ([Demo](https://dudle.inf.tu-dresden.de/)) `AGPLv3` `Ruby`
+  * [Fider](http://getfider.com) - 用户之声的开源选择 ([Demo](https://demo.fider.io), [Source Code](https://github.com/getfider/fider)) `MIT` `Go`
+  * [Framadate](https://framadate.org/) - 约会和快速决策的一个在线服务 ，可以发给朋友投票连接 ([Demo](https://framadate.org/aqg259dth55iuhwm), [Source Code](https://git.framasoft.org/framasoft/framadate)) `CeCILL-B` `PHP`
+  * [Kyélà](http://kyela.net/) - 群组事件的选举投票. ([Demo](http://kyela.net/55232734237c8/), [Source Code](https://github.com/abienvenu/Kyela)) `AGPLv3` `PHP`
+  * [LimeSurvey](https://www.limesurvey.org) - 全功能的开源投票软件，支持扩展调研逻辑 ([Demo](https://demo.limesurvey.org), [Source code](https://github.com/LimeSurvey/LimeSurvey)) `GPLv2` `PHP`
+  * [MaterialPoll](https://github.com/nearbycoder/materialpoll) - 开源的随机投票 ([Demo](http://materialpoll.tk), [Source Code](https://github.com/nearbycoder/materialpoll)) `MIT` `Nodejs`
+  * [Nuages](https://nuages.domainepublic.net/) - 类似doodle or rdvz，协作的会议投票系统 ([Source Code](http://git.domainepublic.net/?p=nuages.git;a=tree)) `GPLv3` `Python`
+  * [PHPBack](http://www.phpback.org) - 开源反馈系统. ([Demo](http://www.phpback.org/demo/), [Source Code](https://github.com/ivandiazwm/phpback/)) `GPLv3` `PHP`
+  * [TellForm](https://tellform.com) - 在线论坛和调研生成器  ([Demo](https://tellform.com/examples), [Source Code](https://github.com/whitef0x0/tellform)) `MIT` `Nodejs`
 
 
 ## Proxy
 
 **[`^        back to top        ^`](#)**
 
-  * [http2-serverpush-proxy](https://github.com/n1try/http2-serverpush-proxy) - A reverse proxy that helps to automatically utilize HTTP/2.0's server push mechanism for static websites. Available as middleware and standalone application. `MIT` `Nodejs`
-  * [iodine](http://code.kryo.se/iodine/) - A ipv4 over DNS tunnel solution, enabling you to start up a socks5 proxy listener. ([Source Code](https://github.com/yarrick/iodine)) `ISC` `C`
-  * [microproxy](https://github.com/thekvs/microproxy) - lightweight non-caching HTTP/HTTPS proxy server. ([Source Code](https://github.com/thekvs/microproxy)) `MIT` `Go`
-  * [miniProxy](https://github.com/joshdick/miniProxy/) - Simple web proxy written in PHP that can allow you to bypass Internet content filters, or to browse the internet anonymously. Only one php file. ([Source Code](https://github.com/joshdick/miniProxy/)) `GPLv3` `PHP`
-  * [Oranjeproxy](http://lehollandaisvolant.net/tout/oranjeproxy/) - Anonymizing web proxy. ([Source Code](https://github.com/AmauryCarrade/OranjeProxy)) `GPLv2` `PHP`
-  * [PHP-Proxy](https://www.php-proxy.com/) - A web proxy script built specifically to be fast, easy to modify and to support video sites such as YouTube. ([Demo](https://unblockvideos.com/), [Source Code](https://github.com/Athlon1600/php-proxy-app)) `MIT` `PHP`
-  * [Pound](http://www.apsis.ch/pound/) - Light-weight reverse proxy and load balancer for HTTP/HTTPS. ([Source Code](http://www.apsis.ch/pound/)) `GPLv2` `C`
-  * [Privoxy](http://www.privoxy.org) - A non-caching web proxy with advanced filtering capabilities for enhancing privacy, modifying web page data and HTTP headers, controlling access, and removing ads and other obnoxious Internet junk. `GPLv2` `C`
-  * [Squid](http://www.squid-cache.org/) - Caching proxy for the Web supporting HTTP, HTTPS, FTP, and more. It reduces bandwidth and improves response times by caching and reusing frequently-requested web pages. ([Source Code](https://code.launchpad.net/squid)) `GPLv2` `C`
-  * [Swiperproxy](https://swiperproxy.github.io/) - A lightning-fast, open source web proxy that is easy for you to run and customize. ([Source Code](https://github.com/swiperproxy/swiperproxy)) `MIT` `Python`
-  * [Tinyproxy](https://banu.com/tinyproxy/) - Light-weight HTTP/HTTPS proxy daemon. ([Source Code](https://github.com/tinyproxy/tinyproxy)) `GPLv2` `C`
-  * [Traefik](https://traefik.io/) - Træfɪk is a modern HTTP reverse proxy and load balancer made to deploy microservices with ease. It supports several backends (Docker, Swarm, Mesos/Marathon, …) to manage its configuration automatically and dynamically. ([Source Code](https://github.com/containous/traefik)) `MIT` `Go`
+  * [http2-serverpush-proxy](https://github.com/n1try/http2-serverpush-proxy) - 一个自动应用http2.0的服务推送机制的反响代理 ，可以作为中间件或独立应用 `MIT` `Nodejs`
+  * [iodine](http://code.kryo.se/iodine/) - A ipv4 over DNS tunnel solution, 可以建立socks5 代理监听器 ([Source Code](https://github.com/yarrick/iodine)) `ISC` `C`
+  * [microproxy](https://github.com/thekvs/microproxy) - 轻量不缓存的代理服务器. ([Source Code](https://github.com/thekvs/microproxy)) `MIT` `Go`
+  * [miniProxy](https://github.com/joshdick/miniProxy/) - 简单web代理，允许绕过网络过滤器，匿名访问网络 ([Source Code](https://github.com/joshdick/miniProxy/)) `GPLv3` `PHP`
+  * [Oranjeproxy](http://lehollandaisvolant.net/tout/oranjeproxy/) -匿名网络代理. ([Source Code](https://github.com/AmauryCarrade/OranjeProxy)) `GPLv2` `PHP`
+  * [PHP-Proxy](https://www.php-proxy.com/) - 视频网站代理. ([Demo](https://unblockvideos.com/), [Source Code](https://github.com/Athlon1600/php-proxy-app)) `MIT` `PHP`
+  * [Pound](http://www.apsis.ch/pound/) - 轻量反向代理 ([Source Code](http://www.apsis.ch/pound/)) `GPLv2` `C`
+  * [Privoxy](http://www.privoxy.org) - 增强隐私 ，高级过滤功能的非缓存网络代理，可以修改页面数据，http头信息，控制接入，移除广告和其他讨厌的网络垃圾 `GPLv2` `C`
+  * [Squid](http://www.squid-cache.org/) - 支持多种协议的网络缓存代理，减小带宽，通过缓存和重用常用的页面 ([Source Code](https://code.launchpad.net/squid)) `GPLv2` `C`
+  * [Swiperproxy](https://swiperproxy.github.io/) - 轻量快速的网络代理  ([Source Code](https://github.com/swiperproxy/swiperproxy)) `MIT` `Python`
+  * [Tinyproxy](https://banu.com/tinyproxy/) - proxy . ([Source Code](https://github.com/tinyproxy/tinyproxy)) `GPLv2` `C`
+  * [Traefik](https://traefik.io/) - Træfɪk 是现代http反响代理，和负载均衡器，可以轻便的部署微服务，可以支持多种后端(Docker, Swarm, Mesos/Marathon, …) 可以自动动态的管理配置。 ([Source Code](https://github.com/containous/traefik)) `MIT` `Go`
 
 
 ## Read it Later Lists
 
 **[`^        back to top        ^`](#)**
 
-  * [Nunux Keeper](http://keeper.nunux.org/) - Your personal content curation service. ([Source Code](https://github.com/ncarlier/nunux-keeper)) `GPLv3` `Nodejs`
-  * [Wallabag](https://www.wallabag.org) - Wallabag, formerly Poche, is a web application allowing you to save articles to read them later with improved readability. ([Demo](http://demo.wallabag.org/), [Source Code](https://github.com/wallabag/wallabag)) `MIT` `PHP`
+  * [Nunux Keeper](http://keeper.nunux.org/) - 个人内容管理服务 ([Source Code](https://github.com/ncarlier/nunux-keeper)) `GPLv3` `Nodejs`
+  * [Wallabag](https://www.wallabag.org) - Wallabag, formerly Poche, 允许保存内容方便以后阅读. ([Demo](http://demo.wallabag.org/), [Source Code](https://github.com/wallabag/wallabag)) `MIT` `PHP`
 
 
 ## Search Engines
 
 **[`^        back to top        ^`](#)**
 
-  * [Gigablast](http://www.gigablast.com/) - open source search engine. ([Demo](http://www.gigablast.com/), [Source Code](https://github.com/gigablast/open-source-search-engine)) `Apache` `C++`
-  * [Seeks](https://beniz.github.io/seeks/) - A websearch proxy and collaborative distributed tool for websearch. ([Source Code](https://github.com/beniz/seeks)) `AGPLv3` `C++`
-  * [Searx](https://asciimoo.github.io/searx/) - A privacy-respecting, hackable metasearch engine. ([Demo](https://searx.me/), [Source Code](https://github.com/asciimoo/searx)) `AGPLv3` `Python`
-  * [Yacy](http://yacy.net/en/index.html) - Peer based, decentralized search engine server. ([Demo](http://search.yacy.net/), [Source Code](https://github.com/yacy/yacy_search_server)) `GPLv2` `Java`
+  * [Gigablast](http://www.gigablast.com/) - 开源的搜索引擎 ([Demo](http://www.gigablast.com/), [Source Code](https://github.com/gigablast/open-source-search-engine)) `Apache` `C++`
+  * [Seeks](https://beniz.github.io/seeks/) - A websearch 代理 ([Source Code](https://github.com/beniz/seeks)) `AGPLv3` `C++`
+  * [Searx](https://asciimoo.github.io/searx/) - 一个尊重隐私的，可以控制的元搜索引擎([Demo](https://searx.me/), [Source Code](https://github.com/asciimoo/searx)) `AGPLv3` `Python`
+  * [Yacy](http://yacy.net/en/index.html) - 去中心化的搜索引擎 ([Demo](http://search.yacy.net/), [Source Code](https://github.com/yacy/yacy_search_server)) `GPLv2` `Java`
 
 
 ## Software Development
@@ -1063,32 +1063,32 @@ See https://github.com/n1trux/awesome-sysadmin#metric--metric-collection
 
 _See also [Ticketing](#ticketing), [Task management/To-do lists](#task-managementto-do-lists)_
 
-  * [Apache Bloodhound](https://bloodhound.apache.org/) - Manage software products, Keep track of features, tasks and bugs. `Apache` `Python`
-  * [Bonobo Git Server](https://bonobogitserver.com/) - Set up your own self hosted git server on IIS for Windows. Manage users and have full control over your repositories with a nice user friendly graphical interface. ([Source Code](https://github.com/jakubgarfield/Bonobo-Git-Server)) `MIT` `C#`
-  * [CaseBox](https://www.casebox.org) - Manage all your organisation's information in one system. ([Source Code](https://github.com/KETSE/casebox)) `AGPLv3` `PHP/Java`
-  * [Fossil](https://www.fossil-scm.org/index.html/doc/trunk/www/index.wiki) - Distributed version control system featuring wiki and bug tracker. `BSD` `C`
-  * [Gitblit](http://gitblit.com/) - A pure Java stack for managing, viewing, and serving Git repositories. ([Source Code](https://github.com/gitblit/gitblit)) `Apache` `Java`
-  * [gitbucket](https://gitbucket.github.io/gitbucket-news/) - The easily installable GitHub clone powered by Scala. ([Source Code](https://github.com/gitbucket/gitbucket)) `Apache` `Scala/Java`
-  * [Gitea](https://gitea.io) - A community managed fork of Gogs, lightweight code hosting solution. ([Demo](https://try.gitea.io), [Source Code](https://github.com/go-gitea/gitea)) `MIT` `Go`
-  * [GitLab](http://gitlab.org/) - Self Hosted Git repository management, code reviews, issue tracking, activity feeds and wikis. ([Demo](https://gitlab.com/), [Source Code](https://gitlab.com/gitlab-org/gitlab-ce)) `MIT` `Ruby`
-  * [Gitlist](http://gitlist.org/) - A web-based git repository browser - GitList allows you to browse repositories using your favorite browser, viewing files under different revisions, commit history and diffs. ([Source Code](https://github.com/klaussilveira/gitlist)) `BSD` `PHP`
-  * [GitPrep](http://gitprep.yukikimoto.com/) - Portable Github clone. ([Demo](http://perlcodesample.sakura.ne.jp/gitprep/gitprep.cgi), [Source Code](https://github.com/yuki-kimoto/gitprep)) `GPL` `Perl`
-  * [Git WebUI](https://github.com/alberthier/git-webui) - A standalone web based user interface for git repositories. `Apache` `Python`
-  * [Gogs](https://gogs.io/) - A painless self-hosted Git Service written in Go. ([Demo](https://try.gogs.io/), [Source Code](https://github.com/gogits/gogs)) `MIT` `Go`
-  * [Kallithea](https://kallithea-scm.org/) - Source code management system that supports two leading version control systems, Mercurial and Git, with a web interface. ([Source Code](https://kallithea-scm.org/repos/kallithea)) `GPLv3` `Python`
-  * [Klaus](https://github.com/jonashaag/klaus/) - A simple, easy-to-set-up Git web viewer that Just Works. `ISC` `Python`
-  * [Lavagna](http://lavagna.io) - Lavagna is an open-source issue/project management tool designed for small teams. Lightweight, pure Java, easy to install, easy to use. ([Source Code](https://github.com/digitalfondue/lavagna)) `GPLv3` `Java`
-  * [Octobox](https://octobox.io/) `⚠` - Take back control of your GitHub Notifications. ([Source Code](https://github.com/octobox/octobox)) `AGPLv3` `Ruby`
-  * [OpenProject](https://www.openproject.org) - OpenProject is a web-based project management system. `GPLv3` `Ruby`
-  * [Phabricator](http://phabricator.org/) - Collection of web applications that help build better software. ([Demo](https://secure.phabricator.com/), [Source Code](https://github.com/phacility/phabricator)) `Apache` `PHP`
-  * [Redmine](http://www.redmine.org/) - Redmine is a flexible project management web application. ([Demo](http://demo.redmine.org/), [Source Code](https://svn.redmine.org/redmine/)) `GPLv2` `Ruby`
-  * [RhodeCode](https://rhodecode.com/) - RhodeCode is an open source platform for software development teams. It unifies and simplifies repository management for Git, Subversion, and Mercurial. ([Demo](https://try.rhodecode.com/), [Source Code](https://code.rhodecode.com/)) `AGPLv3` `Python`
-  * [SCM Manager](https://www.scm-manager.org/) - The easiest way to share and manage your Git, Mercurial and Subversion repositories over http. ([Source Code](https://bitbucket.org/sdorra/scm-manager/src)) `BSD` `Java`
-  * [Taiga](https://taiga.io/) - Agile Project Management Tool based on the Kanban and Scrum methods. ([Source Code](https://github.com/taigaio)) `AGPLv3` `Python`
-  * [The Bug Genie](http://www.thebuggenie.com/) - The Bug Genie is a friendly project management and issue tracking tool. ([Source Code](https://github.com/thebuggenie/thebuggenie)) `MPLv2` `PHP`
-  * [Trac](http://trac.edgewall.org/) - Trac is an enhanced wiki and issue tracking system for software development projects. `BSD` `Python`
-  * [Tuleap](https://www.tuleap.org/) - Tuleap is a libre suite to plan, track, code and collaborate on software projects. ([Source Code](https://tuleap.net/plugins/git/tuleap/tuleap/stable?p=tuleap%2Fstable.git&a=tree)) `GPLv2` `PHP`
-  * [Phproject](http://www.phproject.org/) - A high performance full-featured project management system. ([Demo](http://demo.phproject.org/), [Source Code](https://github.com/Alanaktion/phproject)) `GPLv3` `PHP`
+  * [Apache Bloodhound](https://bloodhound.apache.org/) - 管理软件，跟踪功能，任务和bugs `Apache` `Python`
+  * [Bonobo Git Server](https://bonobogitserver.com/) - 建立自己的git服务([Source Code](https://github.com/jakubgarfield/Bonobo-Git-Server)) `MIT` `C#`
+  * [CaseBox](https://www.casebox.org) - 管理所有的组织信息. ([Source Code](https://github.com/KETSE/casebox)) `AGPLv3` `PHP/Java`
+  * [Fossil](https://www.fossil-scm.org/index.html/doc/trunk/www/index.wiki) - 包含wiki和bug跟踪的分布式 版本控制器。 `BSD` `C`
+  * [Gitblit](http://gitblit.com/) - 纯java的管理git . ([Source Code](https://github.com/gitblit/gitblit)) `Apache` `Java`
+  * [gitbucket](https://gitbucket.github.io/gitbucket-news/) - 使用Scala的github替代方案 ([Source Code](https://github.com/gitbucket/gitbucket)) `Apache` `Scala/Java`
+  * [Gitea](https://gitea.io) - fork自Gogs,社区维护的轻量代码存储方案 ([Demo](https://try.gitea.io), [Source Code](https://github.com/go-gitea/gitea)) `MIT` `Go`
+  * [GitLab](http://gitlab.org/) -无需多言 ([Demo](https://gitlab.com/), [Source Code](https://gitlab.com/gitlab-org/gitlab-ce)) `MIT` `Ruby`
+  * [Gitlist](http://gitlist.org/) - 基于web的git库浏览([Source Code](https://github.com/klaussilveira/gitlist)) `BSD` `PHP`
+  * [GitPrep](http://gitprep.yukikimoto.com/) - 便携的Github. ([Demo](http://perlcodesample.sakura.ne.jp/gitprep/gitprep.cgi), [Source Code](https://github.com/yuki-kimoto/gitprep)) `GPL` `Perl`
+  * [Git WebUI](https://github.com/alberthier/git-webui) - 单机的git查看的ui`Apache` `Python`
+  * [Gogs](https://gogs.io/) - 用Go写的git. ([Demo](https://try.gogs.io/), [Source Code](https://github.com/gogits/gogs)) `MIT` `Go`
+  * [Kallithea](https://kallithea-scm.org/) - 源代码管理器支持 Mercurial and Git,([Source Code](https://kallithea-scm.org/repos/kallithea)) `GPLv3` `Python`
+  * [Klaus](https://github.com/jonashaag/klaus/) - 简单容易部署的gitweb . `ISC` `Python`
+  * [Lavagna](http://lavagna.io) - 小团队事件 项目管理工具。([Source Code](https://github.com/digitalfondue/lavagna)) `GPLv3` `Java`
+  * [Octobox](https://octobox.io/) `⚠` - 管理github的通知 ([Source Code](https://github.com/octobox/octobox)) `AGPLv3` `Ruby`
+  * [OpenProject](https://www.openproject.org) - 基于web的项目管理系统 `GPLv3` `Ruby`
+  * [Phabricator](http://phabricator.org/) - 帮助构建更好的软件. ([Demo](https://secure.phabricator.com/), [Source Code](https://github.com/phacility/phabricator)) `Apache` `PHP`
+  * [Redmine](http://www.redmine.org/) - 灵活的项目管理 . ([Demo](http://demo.redmine.org/), [Source Code](https://svn.redmine.org/redmine/)) `GPLv2` `Ruby`
+  * [RhodeCode](https://rhodecode.com/) - 软件管理 ([Demo](https://try.rhodecode.com/), [Source Code](https://code.rhodecode.com/)) `AGPLv3` `Python`
+  * [SCM Manager](https://www.scm-manager.org/) - vcs管理. ([Source Code](https://bitbucket.org/sdorra/scm-manager/src)) `BSD` `Java`
+  * [Taiga](https://taiga.io/) - 敏捷的项目管理工具 ([Source Code](https://github.com/taigaio)) `AGPLv3` `Python`
+  * [The Bug Genie](http://www.thebuggenie.com/) - 友好的项目管理工具. ([Source Code](https://github.com/thebuggenie/thebuggenie)) `MPLv2` `PHP`
+  * [Trac](http://trac.edgewall.org/) - 增强的事件管理和issue 跟踪 `BSD` `Python`
+  * [Tuleap](https://www.tuleap.org/) - 软件管理 ([Source Code](https://tuleap.net/plugins/git/tuleap/tuleap/stable?p=tuleap%2Fstable.git&a=tree)) `GPLv2` `PHP`
+  * [Phproject](http://www.phproject.org/) - 项目管理系统 ([Demo](http://demo.phproject.org/), [Source Code](https://github.com/Alanaktion/phproject)) `GPLv3` `PHP`
 
 
 ### Bug Trackers
@@ -1098,57 +1098,57 @@ See **[Ticketing](#ticketing)**
 
 ### IDE/Tools
 
-  * [Codiad](http://codiad.com/) - A web-based IDE framework with a small footprint and minimal requirements. ([Source Code](https://github.com/Codiad/Codiad)) `MIT` `PHP`
-  * [Eclipse Che](http://www.eclipse.org/che/) - Open source workspace server and cloud IDE. ([Source Code](https://github.com/eclipse/che)) `EPLv1` `Docker/Java`
-  * [ICEcoder](https://icecoder.net/) - ICEcoder is a web IDE / browser based code editor, which allows you to develop websites directly within the web browser. ([Demo](http://demo.icecoder.net/ICEcoder/), [Source Code](https://github.com/mattpass/ICEcoder)) `MIT` `PHP`
-  * [JS Bin](http://jsbin.com/) - Open source collaborative web development debugging tool. ([Source Code](https://github.com/jsbin/jsbin)) `MIT` `Nodejs`
-  * [Judge0 API](https://api.judge0.com) - Open source API to compile and run source code. ([Source Code](https://github.com/judge0/api)) `GPLv3` `Ruby`
-  * [Koding](http://www.koding.com/) - The simplest way to manage your entire Dev Infrastructure. ([Source Code](https://github.com/koding/koding)) `Apache` `Nodejs`
-  * [Microglark](http://micro.glark.io) - A hacky minimalistic remote pair programming editor. ([Demo](http://micro.glark.io), [Source Code](https://github.com/Bluefinch/microglark)) `AGPLv3` `Nodejs`
-  * [Regexr](http://regexr.com/) - RegExr is a HTML/JS based tool for creating, testing, and learning about Regular Expressions. ([Source Code](https://github.com/gskinner/regexr/)) `MIT` `Nodejs`
-  * [RequestBin](https://requestb.in/) - Inspect HTTP requests. Debug webhooks. ([Source Code](https://github.com/Runscope/requestbin)) `MIT` `python`
-  * [RStudio Server](https://www.rstudio.com/products/rstudio/#Server) - Web browser based IDE for R. ([Source Code](https://github.com/rstudio/rstudio/)) `AGPLv3` `Java/C++`
-  * [Selenoid](http://aerokube.com/selenoid/latest/) - A lightweight Selenium hub implementation launching browsers within Docker containers. ([Source Code](https://github.com/aerokube/selenoid)) `Apache` `Go`
-  * [Wide](https://github.com/b3log/wide) - A Web-based IDE for Teams using Go programming language/Golang. ([Demo](http://wide.b3log.org/signup)) `Apache` `Go`
-  * [Zalenium](https://github.com/zalando/zalenium) - Allows anyone to have a disposable and flexible Docker-based Selenium Grid infrastructure featuring video recording, live preview and online/offline dashboards. `Apache` `Java/Shell`
+  * [Codiad](http://codiad.com/) - ide. ([Source Code](https://github.com/Codiad/Codiad)) `MIT` `PHP`
+  * [Eclipse Che](http://www.eclipse.org/che/) - 云ide ([Source Code](https://github.com/eclipse/che)) `EPLv1` `Docker/Java`
+  * [ICEcoder](https://icecoder.net/) - 在浏览器写代码 . ([Demo](http://demo.icecoder.net/ICEcoder/), [Source Code](https://github.com/mattpass/ICEcoder)) `MIT` `PHP`
+  * [JS Bin](http://jsbin.com/) - 协同web开发调试工具([Source Code](https://github.com/jsbin/jsbin)) `MIT` `Nodejs`
+  * [Judge0 API](https://api.judge0.com) - 编译工具([Source Code](https://github.com/judge0/api)) `GPLv3` `Ruby`
+  * [Koding](http://www.koding.com/) - 管理整个开发架构 ([Source Code](https://github.com/koding/koding)) `Apache` `Nodejs`
+  * [Microglark](http://micro.glark.io) - 最小的远程代码编辑器 ([Demo](http://micro.glark.io), [Source Code](https://github.com/Bluefinch/microglark)) `AGPLv3` `Nodejs`
+  * [Regexr](http://regexr.com/) - 基于js的正则表达检验. ([Source Code](https://github.com/gskinner/regexr/)) `MIT` `Nodejs`
+  * [RequestBin](https://requestb.in/) - 检查http请求 . ([Source Code](https://github.com/Runscope/requestbin)) `MIT` `python`
+  * [RStudio Server](https://www.rstudio.com/products/rstudio/#Server) - R语言基于web的IDE ([Source Code](https://github.com/rstudio/rstudio/)) `AGPLv3` `Java/C++`
+  * [Selenoid](http://aerokube.com/selenoid/latest/) - 容器部署的轻量Selenium实现，在浏览器使用 ([Source Code](https://github.com/aerokube/selenoid)) `Apache` `Go`
+  * [Wide](https://github.com/b3log/wide) - go开发的web编辑器 ([Demo](http://wide.b3log.org/signup)) `Apache` `Go`
+  * [Zalenium](https://github.com/zalando/zalenium) - 允许任何人一次性和扩展基于docker的 Selenium `Apache` `Java/Shell`
 
 
 
 ### Continuous Integration
 
-  * [Buddy GO](https://buddy.works/) - The Git and Continuous Integration / Delivery Platform. `Fair` `Nodejs/Java`
-  * [Concourse](https://concourse.ci/) - Concourse is a CI tool that treats pipelines as first class objects and containerizes every step along the way. ([Demo](https://ci.concourse.ci/), [Source Code](https://github.com/concourse/concourse)) `Apache` `Go`
-  * [drone](https://drone.io/) - Drone is a Continuous Delivery platform built on Docker, written in Go. ([Source Code](https://github.com/drone/drone)) `Apache` `Go`
-  * [Factor](http://www.factor.io/) - It's like IFTTT (if-this-then-that) for Dev and DevOps. ([Source Code](https://github.com/factor-io/factor)) `MIT` `Ruby`
-  * [Jenkins](https://jenkins-ci.org/) - Continuous Integration Server. ([Source Code](https://github.com/jenkinsci/jenkins/)) `MIT` `Java`
-  * [PHPCI](https://www.phptesting.org/) - Free and open source continuous integration specifically designed for PHP. ([Source Code](https://github.com/block8/phpci)) `BSD` `PHP`
-  * [Strider](http://strider-cd.github.io/) - Open Source Continuous Deployment / Continuous Integration platform. ([Source Code](https://github.com/Strider-CD/strider)) `BSD` `Nodejs`
+  * [Buddy GO](https://buddy.works/) - git持续集成开发平台 `Fair` `Nodejs/Java`
+  * [Concourse](https://concourse.ci/) - Concourse是一个持续集成工具，把pipeline作为一等对象，容器化每一个步骤 ([Demo](https://ci.concourse.ci/), [Source Code](https://github.com/concourse/concourse)) `Apache` `Go`
+  * [drone](https://drone.io/) - Drone是一个持续部署平台 ([Source Code](https://github.com/drone/drone)) `Apache` `Go`
+  * [Factor](http://www.factor.io/) - 类似IFTTT (if-this-then-that) for Dev and DevOps. ([Source Code](https://github.com/factor-io/factor)) `MIT` `Ruby`
+  * [Jenkins](https://jenkins-ci.org/) - 大名鼎鼎ci服务 ([Source Code](https://github.com/jenkinsci/jenkins/)) `MIT` `Java`
+  * [PHPCI](https://www.phptesting.org/) - php的ci工具. ([Source Code](https://github.com/block8/phpci)) `BSD` `PHP`
+  * [Strider](http://strider-cd.github.io/) - cd ci工具 ([Source Code](https://github.com/Strider-CD/strider)) `BSD` `Nodejs`
 
 
 ### API Management
 
- * [DreamFactory](https://www.dreamfactory.com/) - Turns any SQL/NoSQL/Structured data into Restful API. ([Source Code](https://github.com/dreamfactorysoftware/dreamfactory)) `Apache` `PHP`
- * [Endpoint](https://github.com/LINKIWI/endpoint/) - Super simple mock HTTP API endpoints that return static JSON data, for testing webhooks and client libraries in development. `MIT` `Nodejs`
- * [Fusio](http://www.fusio-project.org/) - Open-source API management platform which helps to build and manage REST APIs. ([Demo](http://fusio-project.org/demo), [Source Code](https://github.com/apioo/fusio)) `AGPLv3` `PHP`
- * [Hapttic](https://github.com/jsoendermann/hapttic) - Simple HTTP server that forwards all requests to a shell script to handle webhooks you receive. `Apache` `Go`
- * [Para](http://www.paraio.org) - Flexible and modular backend framework/server for object persistence, API development and authentication. ([Source Code](https://github.com/erudika/para)) `Apache` `Java`
+ * [DreamFactory](https://www.dreamfactory.com/) - 转变sql结构数据到restful api ([Source Code](https://github.com/dreamfactorysoftware/dreamfactory)) `Apache` `PHP`
+ * [Endpoint](https://github.com/LINKIWI/endpoint/) - 超级简单的构造httpapi的数据，返回静态json数据，可以进行测试webhook和客户端库 `MIT` `Nodejs`
+ * [Fusio](http://www.fusio-project.org/) - 构建管理 REST APIs. ([Demo](http://fusio-project.org/demo), [Source Code](https://github.com/apioo/fusio)) `AGPLv3` `PHP`
+ * [Hapttic](https://github.com/jsoendermann/hapttic) - Simple HTTP server that 转发所有请求到shell脚本 `Apache` `Go`
+ * [Para](http://www.paraio.org) - 灵活模块快的后端架构，为对象存储，api开发和认证 ([Source Code](https://github.com/erudika/para)) `Apache` `Java`
 
 
 ### Documentation Generators
 
 See also [Static site generators](#static-site-generators)
 
-  * [Docstore](http://haldean.org/) - Static document hosting without any server-side processing, does not require you to recompile every time you change an article. Clone the repository and add articles in the text/ directory to get started. ([Source Code](https://github.com/haldean/docstore)) `BSD` `Javascript`
-  * [Flatdoc](http://ricostacruz.com/flatdoc/) - A small Javascript file that fetches Markdown files and renders them as full pages. `MIT` `Javascript`
-  * [markdown-tree](https://github.com/mil/markdown-tree) - Serve a hierarchy / tree directory of markdown files. Use intended for small sites built in markdown. `MIT` `Ruby`
-  * [Read the Docs](https://docs.readthedocs.org/en/latest/install.html) - Host documentation, making it fully searchable and easy to find; import your docs using any major version control system, including Mercurial, Git, Subversion, and Bazaar. ([Demo](https://readthedocs.org/projects/), [Source Code](https://github.com/rtfd/readthedocs.org)) `MIT` `Python`
+  * [Docstore](http://haldean.org/) - 静态文档主机，不需要服务端处理，文档变化时不需要处理 ，clone库，添加文章到text目录 ([Source Code](https://github.com/haldean/docstore)) `BSD` `Javascript`
+  * [Flatdoc](http://ricostacruz.com/flatdoc/) - 小型js文件从md获取选染成完全的页面  `MIT` `Javascript`
+  * [markdown-tree](https://github.com/mil/markdown-tree) - 提供md文件的树形架构  `MIT` `Ruby`
+  * [Read the Docs](https://docs.readthedocs.org/en/latest/install.html) - git管理的文档. ([Demo](https://readthedocs.org/projects/), [Source Code](https://github.com/rtfd/readthedocs.org)) `MIT` `Python`
 
 ### Localization
 
-  * [Parrot](http://anthonynsimon.com/parrot.github.io/) - Self-hosted Localization Management Platform built with Go and Angular 2. ([Source Code](https://github.com/anthonynsimon/parrot)) `MIT` `Go`
-  * [Pootle](http://pootle.translatehouse.org) - Online translation and localization tool. ([Source Code](https://github.com/translate/pootle)) `GPLv3` `Python`
-  * [Weblate](https://weblate.org) - Web-based translation tool with tight version control integration. ([Demo](https://demo.weblate.org), [Source Code](https://github.com/WeblateOrg/weblate)) `GPLv3` `Python`
-  * [Zanata](http://zanata.org) - Web-based translation platform for translators, content creators and developers to manage localisation projects. ([Source Code](https://github.com/zanata/zanata-platform)) `GPLv2` `Java`
+  * [Parrot](http://anthonynsimon.com/parrot.github.io/) - Go and Angular 2部署的本地化管理工具 ([Source Code](https://github.com/anthonynsimon/parrot)) `MIT` `Go`
+  * [Pootle](http://pootle.translatehouse.org) - 在线翻译和本地化工具. ([Source Code](https://github.com/translate/pootle)) `GPLv3` `Python`
+  * [Weblate](https://weblate.org) - 基于web的翻译工具，紧版本控制集成 ([Demo](https://demo.weblate.org), [Source Code](https://github.com/WeblateOrg/weblate)) `GPLv3` `Python`
+  * [Zanata](http://zanata.org) - 基于web的翻译平台，内容管理器和管理本地化项目 ([Source Code](https://github.com/zanata/zanata-platform)) `GPLv2` `Java`
 
 ## Static site generators
 
@@ -1163,25 +1163,25 @@ See https://staticsitegenerators.net and https://www.staticgen.com
 
 *See also [Project Management](#project-management) and [Ticketing](#ticketing).*
 
-  * [Crepido](https://github.com/arshad/crepido) - Create (kanban) boards to track users and projects from flat markdown files. `MIT` `Nodejs`
+  * [Crepido](https://github.com/arshad/crepido) - 从md文件生成看板. `MIT` `Nodejs`
   * [Kanboard](http://kanboard.net/) - A simple and open source visual task board. ([Source Code](https://github.com/kanboard/kanboard)) `MIT` `PHP`
-  * [Wheatbin](http://wheatbin.com/) - A project management software that combines Kanban methodology with the Law of the Harvest. ([Source Code](https://github.com/wheatbin/wheatbin)) `MIT` `PHP`
-  * [myTinyTodo](http://www.mytinytodo.net/) - Simple way to manage your todo list in AJAX style. Uses PHP, jQuery, SQLite/MySQL. GTD compliant. `GPLv2` `PHP`
-  * [omgnata](https://github.com/chr15m/omgnata) - Mobile friendly zero-feature TODO list web app. Unix philosophy. ([Demo](https://chr15m.github.io/omgnata/)) `GPLv3` `ClojureScript`
-  * [PHP Task/Todo list](https://github.com/lgg/tasks.php) - A simple task/todo list that uses a JSON text file for the tasks. `MIT` `PHP`
-  * [Restyaboard](http://restya.com/board/) - Open source Trello-like kanban board. ([Demo](http://restya.com/board/demo.html), [Source Code](https://github.com/RestyaPlatform/board)) `OSLv3` `PHP`
-  * [scrumblr](http://scrumblr.ca/) - Collaborative Online Scrum Tool Using Websockets, Node.js, jQuery, and CSS3. ([Source Code](https://github.com/ocdtrekkie/scrumblr/tree/sandstorm)) `GPLv3` `Nodejs`
-  * [TaskBoard](http://taskboard.matthewross.me/) - A Kanban-inspired app for keeping track of things that need to get done. ([Source Code](https://github.com/kiswa/TaskBoard)) `MIT` `PHP`
-  * [Taskfreak](http://www.taskfreak.com/original) - A simple but efficient web based task manager written in PHP. ([Demo](http://demo.taskfreak.com/)) `GPLv3` `PHP`
-  * [Tasks](https://projects.miguelpiedrafita.com/Tasks/) - Simple tasks & notes manager written in PHP, jQuery and Bootstrap using a custom flat file database. ([Demo](https://demo.miguelpiedrafita.com/tasks/), ([Source Code](https://github.com/m1guelpf/tasks)) `MPLv2` `PHP`
-  * [Tasks](https://github.com/thewhitetulip/Tasks) - Kanban based to-do list manager written in Go. `MIT` `Go`
+  * [Wheatbin](http://wheatbin.com/) - 从Law of the Harvest得到的看板方法管理 . ([Source Code](https://github.com/wheatbin/wheatbin)) `MIT` `PHP`
+  * [myTinyTodo](http://www.mytinytodo.net/) - 管理todolist  Uses PHP, jQuery, SQLite/MySQL. GTD compliant. `GPLv2` `PHP`
+  * [omgnata](https://github.com/chr15m/omgnata) - 移动端友好的todolist([Demo](https://chr15m.github.io/omgnata/)) `GPLv3` `ClojureScript`
+  * [PHP Task/Todo list](https://github.com/lgg/tasks.php) - json文件保存的todo list `MIT` `PHP`
+  * [Restyaboard](http://restya.com/board/) - 类似Trello的看板 ([Demo](http://restya.com/board/demo.html), [Source Code](https://github.com/RestyaPlatform/board)) `OSLv3` `PHP`
+  * [scrumblr](http://scrumblr.ca/) - 在线协同 Scrum Tool使用websocket 。Node.js, jQuery, and CSS3. ([Source Code](https://github.com/ocdtrekkie/scrumblr/tree/sandstorm)) `GPLv3` `Nodejs`
+  * [TaskBoard](http://taskboard.matthewross.me/) - 基于kanban的app，跟踪待办事项 ([Source Code](https://github.com/kiswa/TaskBoard)) `MIT` `PHP`
+  * [Taskfreak](http://www.taskfreak.com/original) - 简单高效的任务管理器 ([Demo](http://demo.taskfreak.com/)) `GPLv3` `PHP`
+  * [Tasks](https://projects.miguelpiedrafita.com/Tasks/) - 简单任务管理  ([Demo](https://demo.miguelpiedrafita.com/tasks/), ([Source Code](https://github.com/m1guelpf/tasks)) `MPLv2` `PHP`
+  * [Tasks](https://github.com/thewhitetulip/Tasks) - 待办list `MIT` `Go`
   * [tasks.php](https://github.com/RaymiiOrg/tasks.php) - A simple task/todo list manager. `MIT` `PHP`
-  * [Taskwarrior](https://taskwarrior.org/) - Taskwarrior is Free and Open Source Software that manages your TODO list from your command line. It is flexible, fast, efficient, and unobtrusive. It does its job then gets out of your way. ([Source Code](https://taskwarrior.org/download/#git)) `MIT` `C++`
-  * [Tinyissue](https://github.com/satrun77/tinyissue) - Simple Issue Tracking for Teams. `MIT` `PHP`
-  * [todo](https://github.com/prologic/todo) - Simple todo list manager. ([Demo](https://todo.mills.io)) `MIT` `Go`
+  * [Taskwarrior](https://taskwarrior.org/) - Taskwarrior 命令行管理任务([Source Code](https://taskwarrior.org/download/#git)) `MIT` `C++`
+  * [Tinyissue](https://github.com/satrun77/tinyissue) - 团队issue跟踪 `MIT` `PHP`
+  * [todo](https://github.com/prologic/todo) - todo管理. ([Demo](https://todo.mills.io)) `MIT` `Go`
   * [Tracks](http://www.getontracks.org/) - A web-based application to help you implement David Allen’s [Getting Things Done™](https://en.wikipedia.org/wiki/Getting_Things_Done) methodology. ([Source Code](https://github.com/TracksApp/tracks)) `GPLv2` `Ruby`
-  * [Volition](https://www.usevolition.com) - Opinionated open-source task management. ([Source Code](https://github.com/garrettqmartin8/volition)) `MIT` `Ruby`
-  * [Wekan](https://wekan.github.io/) - An open-source Trello-like kanban. ([Demo](https://oasis.sandstorm.io/appdemo/m86q05rdvj14yvn78ghaxynqz7u2svw6rnttptxx49g1785cdv1h), [Source Code](https://github.com/wekan/wekan)) `MIT` `Nodejs`
+  * [Volition](https://www.usevolition.com) - 固执己见的任务工具. ([Source Code](https://github.com/garrettqmartin8/volition)) `MIT` `Ruby`
+  * [Wekan](https://wekan.github.io/) - 开源Trello kanban. ([Demo](https://oasis.sandstorm.io/appdemo/m86q05rdvj14yvn78ghaxynqz7u2svw6rnttptxx49g1785cdv1h), [Source Code](https://github.com/wekan/wekan)) `MIT` `Nodejs`
 
 
 ## Ticketing
@@ -1211,15 +1211,15 @@ See https://staticsitegenerators.net and https://www.staticgen.com
 
 **[`^        back to top        ^`](#)**
 
-  * [Link-shortener-bot](https://github.com/tommyku/link-shortener-front-end) `⚠` - URL shortener using a Telegram Bot. ([Demo](http://t.me/GiveMeShortLinkBot)) `MIT` `ruby`
-  * [Linkr](https://linkrapp.com) - Beautiful, fast URL shortening. ([Demo](https://demo.linkrapp.com), [Source Code](https://github.com/LINKIWI/linkr)) `MIT` `Python/Nodejs`
-  * [Lstu](https://github.com/ldidry/lstu) - _Let's SHorten That Url_ - Lightweight URL shortener. `WTFPL` `Perl`
-  * [Nimbus](https://github.com/ethanal/nimbus) - A URL shortener and file sharer with a drag-and-drop OS X menu bar client and web interface. `MIT` `Python`
-  * [Polr](https://project.polr.me/) - A modern, minimalist, modular, and lightweight URL shortener. ([Source Code](https://github.com/Cydrobolt/polr)) `GPLv2` `PHP`
-  * [shorturl](https://github.com/prologic/shorturl) - Simple URL shortener with very tiny URLs. ([Demo](https://url.mills.io)) `MIT` `Go`
-  * [shuri](https://github.com/pips-/shuri) - SHort URI - Lighweight URL shortener. `MIT` `PHP`
-  * [url-shortener](https://github.com/cagataycali/url-shortener) `⚠` - Shitty url shortener, emoji and AI powered. `MIT` `Nodejs`
-  * [YOURLS](http://yourls.org/) - YOURLS is a set of PHP scripts that will allow you to run Your Own URL Shortener. Features include password protection, URL customization, bookmarklets, statistics, API, plugins, jsonp. ([Source Code](https://github.com/YOURLS/YOURLS/)) `MIT` `PHP`
+  * [Link-shortener-bot](https://github.com/tommyku/link-shortener-front-end) `⚠` - Telegram Bot短地址生成器 ([Demo](http://t.me/GiveMeShortLinkBot)) `MIT` `ruby`
+  * [Linkr](https://linkrapp.com) - 快速短连接生成. ([Demo](https://demo.linkrapp.com), [Source Code](https://github.com/LINKIWI/linkr)) `MIT` `Python/Nodejs`
+  * [Lstu](https://github.com/ldidry/lstu) - _Let's SHorten That Url_ - 轻量短地址生成. `WTFPL` `Perl`
+  * [Nimbus](https://github.com/ethanal/nimbus) - 短地址生成，文件分享，在mac上可以拖拽完成 . `MIT` `Python`
+  * [Polr](https://project.polr.me/) - 现代，微小，模块化短地址生成  ([Source Code](https://github.com/Cydrobolt/polr)) `GPLv2` `PHP`
+  * [shorturl](https://github.com/prologic/shorturl) - tiny短地址生成 ([Demo](https://url.mills.io)) `MIT` `Go`
+  * [shuri](https://github.com/pips-/shuri) - . `MIT` `PHP`
+  * [url-shortener](https://github.com/cagataycali/url-shortener) `⚠` - 支持emoji and AI powered. `MIT` `Nodejs`
+  * [YOURLS](http://yourls.org/) - 功能丰富. ([Source Code](https://github.com/YOURLS/YOURLS/)) `MIT` `PHP`
 
 
 ## VPN
@@ -1242,30 +1242,30 @@ See https://github.com/n1trux/awesome-sysadmin#web
 
 See also [Documentation Generators](#documentation-generators), [Wikimatrix](http://www.wikimatrix.org/), [Wiki Engines on WikiIndex](http://wikiindex.org/Category:Wiki_Engine), [List of wiki software on wikipedia](https://en.wikipedia.org/wiki/List_of_wiki_software), [Comparison of wiki software on wikipedia](https://en.wikipedia.org/wiki/Comparison_of_wiki_software).
 
-  * [Blazekiss](http://projet.idleman.fr/blazekiss/) - BlazeKiss is a KISS-based wiki (Keep It Simple, Stupid) - simplicity and functionality comes before all. ([Source Code](https://github.com/ldleman/blazekiss)) `GPLv3` `PHP`
-  * [BookStack](https://www.bookstackapp.com/) - BookStack is a simple, self-hosted, easy-to-use platform for organizing and storing information. It allows for documentation to be stored in a book like fashion. ([Demo](https://www.bookstackapp.com/#demo), [Source Code](https://github.com/ssddanbrown/BookStack)) `MIT` `PHP`
-  * [django-wiki](https://github.com/django-wiki/django-wiki) - A wiki system with complex functionality for simple integration and a superb interface. Store your knowledge with style: Use django models. ([Demo](https://demo.django.wiki/)) `GPLv3` `Python`
-  * [Documize](https://documize.com) - Modern Docs + Wiki software with built-in workflow, single binary executable, just bring MySQL/Percona. ([Source Code](https://github.com/documize/community)) `AGPLv3` `Go`
-  * [Dokuwiki](https://www.dokuwiki.org/DokuWiki) - An easy to use, lightweight, standards-compliant wiki engine with a simple syntax allowing reading the data outside the wiki. All data is stored in plain files, therefore no database is required. ([Source Code](https://github.com/splitbrain/dokuwiki)) `GPLv2` `PHP`
-  * [Gitit](https://github.com/jgm/gitit) - A wiki program that stores pages and uploaded files in a git repository, which can then be modified using the VCS command line tools or the wiki's web interface. `GPLv2` `Haskell`
-  * [Gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend. `MIT` `Ruby`
-  * [jingo](https://github.com/claudioc/jingo) - A git based wiki engine written for node.js, with a decent design, a search capability and a good typography. ([Demo](http://jingo.cica.li:6067/wiki/home), [Source Code](https://github.com/claudioc/jingo)) `MIT` `Nodejs`
-  * [Mediawiki](https://www.mediawiki.org/wiki/MediaWiki) - MediaWiki is a free and open-source wiki software package written in PHP. It serves as the platform for Wikipedia and the other Wikimedia projects, used by hundreds of millions of people each month. ([Source Code](https://phabricator.wikimedia.org/diffusion/MW/)) `GPLv2` `PHP`
-  * [MoinMoin](https://moinmo.in/) - An advanced, easy to use and extensible WikiEngine with a large community of users. ([Source Code](http://hg.moinmo.in/moin)) `GPLv2` `Python`
-  * [Olelo](https://github.com/minad/olelo) - Olelo is a wiki that stores pages in a Git repository, supports many markup styles and has an extensible, hackable architecture. ([Demo](http://gitwiki.org/)) `MIT` `Ruby`
-  * [Pepperminty Wiki](https://github.com/sbrl/Pepperminty-Wiki/) - A complete markdown-powered wiki contained in a single PHP file. ([Demo](https://starbeamrainbowlabs.com/labs/peppermint/build/)) `MPLv2` `PHP`
-  * [PineDocs](https://github.com/xy2z/PineDocs) - Simple, fast, customizable and lightweight site for browsing files. `GPLv3` `PHP`
-  * [PmWiki](http://www.pmwiki.org) - Wiki-based system for collaborative creation and maintenance of websites. `GPLv3` `PHP`
-  * [Raneto](http://raneto.com/) - Raneto is an open source Knowledgebase platform that uses static Markdown files to power your Knowledgebase. `MIT` `Nodejs`
-  * [Realms](http://realms.io/) - A git-backed wiki inspired by Gollum. ([Source Code](https://github.com/scragg0x/realms-wiki)) `GPLv2` `Python`
-  * [TiddlyWiki](http://tiddlywiki.com/) - A reusable non-linear personal web notebook. ([Source Code](https://github.com/Jermolene/TiddlyWiki5)) `BSD` `Nodejs`
-  * [Tiki](https://tiki.org) - Wiki CMS Groupware with the most built-in features. ([Demo](https://tiki.org/Demo), [Source Code](https://sourceforge.net/p/tikiwiki/code/HEAD/tree/)) `LGPLv2` `PHP`
-  * [TWiki](http://twiki.org/) - TWiki is a Perl-based structured wiki application, typically used to run a collaboration platform, knowledge or document management system, a knowledge base, or team portal. ([Demo](http://twiki.org/cgi-bin/view/Sandbox/WebHome), [Source Code](http://svn.twiki.org/svn/twiki/)) `GPL` `Perl`
-  * [wiki](https://github.com/prologic/wiki) - Simple Markdown based wiki engine. ([Demo](https://wiki.mills.io)) `MIT` `Go`
-  * [Wiki.js](https://wiki.js.org/) - A modern, lightweight and powerful wiki app built on NodeJS, Git and Markdown. ([Demo](https://docs.requarks.io/wiki)) `AGPLv3` `Nodejs`
-  * [Wikifeat](https://github.com/rhinoman/wikifeat) - Wikifeat is an open source collaboration platform built around the ever-popular Wiki concept. `BSD` `GO`
+  * [Blazekiss](http://projet.idleman.fr/blazekiss/) - BlazeKiss is a KISS-based wiki (Keep It Simple, Stupid) - 简单，功能完善是第一位. ([Source Code](https://github.com/ldleman/blazekiss)) `GPLv3` `PHP`
+  * [BookStack](https://www.bookstackapp.com/) - 组织，存储信息 ([Demo](https://www.bookstackapp.com/#demo), [Source Code](https://github.com/ssddanbrown/BookStack)) `MIT` `PHP`
+  * [django-wiki](https://github.com/django-wiki/django-wiki) - 一个wiki ([Demo](https://demo.django.wiki/)) `GPLv3` `Python`
+  * [Documize](https://documize.com) - 具有workflow功能. ([Source Code](https://github.com/documize/community)) `AGPLv3` `Go`
+  * [Dokuwiki](https://www.dokuwiki.org/DokuWiki) - 一个简单的wiki ([Source Code](https://github.com/splitbrain/dokuwiki)) `GPLv2` `PHP`
+  * [Gitit](https://github.com/jgm/gitit) - 存储页面和上传文件  `GPLv2` `Haskell`
+  * [Gollum](https://github.com/gollum/gollum) - 简单支持git的wiki . `MIT` `Ruby`
+  * [jingo](https://github.com/claudioc/jingo) - 支持git的wiki  ([Demo](http://jingo.cica.li:6067/wiki/home), [Source Code](https://github.com/claudioc/jingo)) `MIT` `Nodejs`
+  * [Mediawiki](https://www.mediawiki.org/wiki/MediaWiki) - 免费开源的wiki  ([Source Code](https://phabricator.wikimedia.org/diffusion/MW/)) `GPLv2` `PHP`
+  * [MoinMoin](https://moinmo.in/) - 高级易用的wiki  ([Source Code](http://hg.moinmo.in/moin)) `GPLv2` `Python`
+  * [Olelo](https://github.com/minad/olelo) - 支持许多标记样式 ，具可扩展和自定义的架构  ([Demo](http://gitwiki.org/)) `MIT` `Ruby`
+  * [Pepperminty Wiki](https://github.com/sbrl/Pepperminty-Wiki/) - 支持md的wiki  ([Demo](https://starbeamrainbowlabs.com/labs/peppermint/build/)) `MPLv2` `PHP`
+  * [PineDocs](https://github.com/xy2z/PineDocs) - 浏览文件  `GPLv3` `PHP`
+  * [PmWiki](http://www.pmwiki.org) - 协同 `GPLv3` `PHP`
+  * [Raneto](http://raneto.com/) - 开源知识平台. `MIT` `Nodejs`
+  * [Realms](http://realms.io/) - git作为后端的wiki平台. ([Source Code](https://github.com/scragg0x/realms-wiki)) `GPLv2` `Python`
+  * [TiddlyWiki](http://tiddlywiki.com/) - 可重用的非线性个人网络笔记本 ([Source Code](https://github.com/Jermolene/TiddlyWiki5)) `BSD` `Nodejs`
+  * [Tiki](https://tiki.org) - cmd wiki ([Demo](https://tiki.org/Demo), [Source Code](https://sourceforge.net/p/tikiwiki/code/HEAD/tree/)) `LGPLv2` `PHP`
+  * [TWiki](http://twiki.org/) - 结构化的wiki应用. ([Demo](http://twiki.org/cgi-bin/view/Sandbox/WebHome), [Source Code](http://svn.twiki.org/svn/twiki/)) `GPL` `Perl`
+  * [wiki](https://github.com/prologic/wiki) - md的wiki引擎([Demo](https://wiki.mills.io)) `MIT` `Go`
+  * [Wiki.js](https://wiki.js.org/) - 支持git md  ([Demo](https://docs.requarks.io/wiki)) `AGPLv3` `Nodejs`
+  * [Wikifeat](https://github.com/rhinoman/wikifeat) -  `BSD` `GO`
   * [WiKiss](http://wikiss.tuxfamily.org/) - A Wiki, simple to use and install. ([Source Code](https://svnweb.tuxfamily.org/listing.php?repname=wikiss/svn&path=%2F&sc=0)) `GPLv2` `PHP`
-  * [XWiki](http://www.xwiki.org) - A second generation wiki that allows the user to extend its functionalities with a powerful extension-based architecture. ([Demo](http://playground.xwiki.org), [Source Code](https://github.com/xwiki/xwiki-platform)) `LGPLv2` `Java`
+  * [XWiki](http://www.xwiki.org) - 第二代wiki. ([Demo](http://playground.xwiki.org), [Source Code](https://github.com/xwiki/xwiki-platform)) `LGPLv2` `Java`
 
 
 ## Self-hosting Solutions
